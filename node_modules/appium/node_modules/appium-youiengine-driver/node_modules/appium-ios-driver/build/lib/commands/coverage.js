@@ -1,0 +1,27 @@
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = exports.helpers = exports.commands = void 0;
+
+require("source-map-support/register");
+
+var _appiumBaseDriver = require("appium-base-driver");
+
+let commands = {},
+    helpers = {},
+    extensions = {};
+exports.helpers = helpers;
+exports.commands = commands;
+
+commands.endCoverage = async function () {
+  throw new _appiumBaseDriver.errors.NotYetImplementedError();
+};
+
+Object.assign(extensions, commands, helpers);
+var _default = extensions;
+exports.default = _default;require('source-map-support').install();
+
+
+//# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImxpYi9jb21tYW5kcy9jb3ZlcmFnZS5qcyJdLCJuYW1lcyI6WyJjb21tYW5kcyIsImhlbHBlcnMiLCJleHRlbnNpb25zIiwiZW5kQ292ZXJhZ2UiLCJlcnJvcnMiLCJOb3RZZXRJbXBsZW1lbnRlZEVycm9yIiwiT2JqZWN0IiwiYXNzaWduIl0sIm1hcHBpbmdzIjoiOzs7Ozs7Ozs7QUFBQTs7QUFHQSxJQUFJQSxRQUFRLEdBQUcsRUFBZjtBQUFBLElBQW1CQyxPQUFPLEdBQUcsRUFBN0I7QUFBQSxJQUFpQ0MsVUFBVSxHQUFHLEVBQTlDOzs7O0FBRUFGLFFBQVEsQ0FBQ0csV0FBVCxHQUF1QixrQkFBa0I7QUFDdkMsUUFBTSxJQUFJQyx5QkFBT0Msc0JBQVgsRUFBTjtBQUNELENBRkQ7O0FBS0FDLE1BQU0sQ0FBQ0MsTUFBUCxDQUFjTCxVQUFkLEVBQTBCRixRQUExQixFQUFvQ0MsT0FBcEM7ZUFFZUMsVSIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCB7IGVycm9ycyB9IGZyb20gJ2FwcGl1bS1iYXNlLWRyaXZlcic7XG5cblxubGV0IGNvbW1hbmRzID0ge30sIGhlbHBlcnMgPSB7fSwgZXh0ZW5zaW9ucyA9IHt9O1xuXG5jb21tYW5kcy5lbmRDb3ZlcmFnZSA9IGFzeW5jIGZ1bmN0aW9uICgpIHsgLy8gZXNsaW50LWRpc2FibGUtbGluZSByZXF1aXJlLWF3YWl0XG4gIHRocm93IG5ldyBlcnJvcnMuTm90WWV0SW1wbGVtZW50ZWRFcnJvcigpO1xufTtcblxuXG5PYmplY3QuYXNzaWduKGV4dGVuc2lvbnMsIGNvbW1hbmRzLCBoZWxwZXJzKTtcbmV4cG9ydCB7IGNvbW1hbmRzLCBoZWxwZXJzIH07XG5leHBvcnQgZGVmYXVsdCBleHRlbnNpb25zO1xuIl0sImZpbGUiOiJsaWIvY29tbWFuZHMvY292ZXJhZ2UuanMiLCJzb3VyY2VSb290IjoiLi4vLi4vLi4ifQ==

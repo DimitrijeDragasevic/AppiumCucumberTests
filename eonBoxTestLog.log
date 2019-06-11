@@ -1,0 +1,1173 @@
+2019-05-27T09:10:23.069Z [INFO]  test: initialize test run...
+2019-05-27T09:10:41.548Z [DEBUG] test: Before scenario Check for basic elements
+2019-05-27T09:10:47.974Z [INFO]  test: Start test: Check for basic elements
+2019-05-27T09:10:57.833Z [INFO]  test: Scenario 'Check for basic elements' passed!
+2019-05-27T09:10:58.084Z [DEBUG] test: Before scenario Navigate to the carousel menu on the home page
+2019-05-27T09:10:58.757Z [INFO]  test: Start test: Navigate to the carousel menu on the home page
+2019-05-27T09:11:05.794Z [INFO]  test: Scenario 'Navigate to the carousel menu on the home page' passed!
+2019-05-27T09:11:05.963Z [DEBUG] test: Before scenario Moving through all the carousel menu banner
+2019-05-27T09:11:06.541Z [INFO]  test: Start test: Moving through all the carousel menu banner
+2019-05-27T09:11:19.273Z [INFO]  test: Scenario 'Moving through all the carousel menu banner' passed!
+2019-05-27T09:11:19.425Z [DEBUG] test: Before scenario Click on the carousel menu card
+2019-05-27T09:11:19.907Z [INFO]  test: Start test: Click on the carousel menu card
+2019-05-27T09:11:39.210Z [INFO]  test: Scenario 'Click on the carousel menu card' failed!
+2019-05-27T09:11:39.409Z [DEBUG] test: Before scenario Navigate to the "NOW ON TV" menu on the page
+2019-05-27T09:11:40.092Z [INFO]  test: Start test: Navigate to the "NOW ON TV" menu on the page
+2019-05-27T09:11:42.090Z [INFO]  test: Scenario 'Navigate to the "NOW ON TV" menu on the page' passed!
+2019-05-27T09:11:42.318Z [DEBUG] test: Before scenario Move through the "NOW ON TV" cards
+2019-05-27T09:11:42.996Z [INFO]  test: Start test: Move through the "NOW ON TV" cards
+2019-05-27T09:11:50.779Z [INFO]  test: Scenario 'Move through the "NOW ON TV" cards' passed!
+2019-05-27T09:11:50.951Z [DEBUG] test: Before scenario Check the "NOW ON TV" elements
+2019-05-27T09:11:51.513Z [INFO]  test: Start test: Check the "NOW ON TV" elements
+2019-05-27T09:11:54.285Z [INFO]  test: Scenario 'Check the "NOW ON TV" elements' passed!
+2019-05-27T09:11:54.437Z [DEBUG] test: Before scenario "NOW ON TV" see all button check
+2019-05-27T09:11:55.014Z [INFO]  test: Start test: "NOW ON TV" see all button check
+2019-05-27T09:12:04.591Z [INFO]  test: Scenario '"NOW ON TV" see all button check' passed!
+2019-05-27T09:12:04.776Z [DEBUG] test: Before scenario Click on one of the "NOW ON TV" cards
+2019-05-27T09:12:05.333Z [INFO]  test: Start test: Click on one of the "NOW ON TV" cards
+2019-05-27T09:12:09.303Z [INFO]  test: Scenario 'Click on one of the "NOW ON TV" cards' passed!
+2019-05-27T09:12:09.453Z [DEBUG] test: Before scenario Navigate to the "ON DEMAND" menu on the page
+2019-05-27T09:12:09.840Z [INFO]  test: Start test: Navigate to the "ON DEMAND" menu on the page
+2019-05-27T09:12:15.302Z [INFO]  test: Scenario 'Navigate to the "ON DEMAND" menu on the page' passed!
+2019-05-27T09:12:15.432Z [DEBUG] test: Before scenario go through all the "ON DEMAND" cards
+2019-05-27T09:12:15.904Z [INFO]  test: Start test: go through all the "ON DEMAND" cards
+2019-05-27T09:12:24.405Z [INFO]  test: Scenario 'go through all the "ON DEMAND" cards' passed!
+2019-05-27T09:12:24.525Z [DEBUG] test: Before scenario "ON DEMAND" see all button check
+2019-05-27T09:12:25.144Z [INFO]  test: Start test: "ON DEMAND" see all button check
+2019-05-27T09:12:33.883Z [INFO]  test: Scenario '"ON DEMAND" see all button check' passed!
+2019-05-27T09:12:34.682Z [DEBUG] test: Before scenario Click on one of the 'ON DEMAND' cards
+2019-05-27T09:12:35.103Z [INFO]  test: Start test: Click on one of the 'ON DEMAND' cards
+2019-05-27T09:12:41.544Z [INFO]  test: Scenario 'Click on one of the 'ON DEMAND' cards' passed!
+2019-05-27T09:12:41.651Z [DEBUG] test: Before scenario Navigate to the "RADIO CHANNELS" menu on the page
+2019-05-27T09:12:42.036Z [INFO]  test: Start test: Navigate to the "RADIO CHANNELS" menu on the page
+2019-05-27T09:12:48.596Z [INFO]  test: Scenario 'Navigate to the "RADIO CHANNELS" menu on the page' passed!
+2019-05-27T09:12:48.735Z [DEBUG] test: Before scenario Go through all the "RADIO CHANNEL" cards
+2019-05-27T09:12:49.156Z [INFO]  test: Start test: Go through all the "RADIO CHANNEL" cards
+2019-05-27T09:13:00.425Z [INFO]  test: Scenario 'Go through all the "RADIO CHANNEL" cards' passed!
+2019-05-27T09:13:00.560Z [DEBUG] test: Before scenario Click on one of the "RADIO CHANNELS" cards
+2019-05-27T09:13:00.940Z [INFO]  test: Start test: Click on one of the "RADIO CHANNELS" cards
+2019-05-27T09:13:11.123Z [INFO]  test: Scenario 'Click on one of the "RADIO CHANNELS" cards' passed!
+2019-05-27T09:20:39.408Z [INFO]  test: initialize test run...
+2019-05-27T09:20:54.734Z [DEBUG] test: Before scenario Start the application
+2019-05-27T09:20:57.239Z [INFO]  test: Start test: Start the application
+2019-05-27T09:21:13.437Z [INFO]  test: Scenario 'Start the application' passed!
+2019-05-27T09:21:13.810Z [DEBUG] test: Before scenario Navigate to the side menu button "Home"
+2019-05-27T09:21:14.255Z [INFO]  test: Start test: Navigate to the side menu button "Home"
+2019-05-27T09:21:19.533Z [INFO]  test: Scenario 'Navigate to the side menu button "Home"' passed!
+2019-05-27T09:21:19.722Z [DEBUG] test: Before scenario Navigate to the side menu button "Home" using the right key code
+2019-05-27T09:21:20.318Z [INFO]  test: Start test: Navigate to the side menu button "Home" using the right key code
+2019-05-27T09:21:23.766Z [INFO]  test: Scenario 'Navigate to the side menu button "Home" using the right key code' passed!
+2019-05-27T09:21:23.921Z [DEBUG] test: Before scenario Navigate to side menu button "Channels"
+2019-05-27T09:21:24.543Z [INFO]  test: Start test: Navigate to side menu button "Channels"
+2019-05-27T09:21:32.281Z [INFO]  test: Scenario 'Navigate to side menu button "Channels"' passed!
+2019-05-27T09:21:32.447Z [DEBUG] test: Before scenario Navigate to side menu button "Channels" using the right key code
+2019-05-27T09:21:33.053Z [INFO]  test: Start test: Navigate to side menu button "Channels" using the right key code
+2019-05-27T09:21:40.369Z [INFO]  test: Scenario 'Navigate to side menu button "Channels" using the right key code' passed!
+2019-05-27T09:21:40.616Z [DEBUG] test: Before scenario Navigate to side menu button "On Demand"
+2019-05-27T09:21:41.128Z [INFO]  test: Start test: Navigate to side menu button "On Demand"
+2019-05-27T09:21:48.027Z [INFO]  test: Scenario 'Navigate to side menu button "On Demand"' passed!
+2019-05-27T09:21:48.274Z [DEBUG] test: Before scenario Navigate to side menu button "On Demand" using the right key code
+2019-05-27T09:21:48.791Z [INFO]  test: Start test: Navigate to side menu button "On Demand" using the right key code
+2019-05-27T09:21:55.360Z [INFO]  test: Scenario 'Navigate to side menu button "On Demand" using the right key code' passed!
+2019-05-27T09:21:55.829Z [DEBUG] test: Before scenario Navigate to side menu button "My Library"
+2019-05-27T09:21:56.552Z [INFO]  test: Start test: Navigate to side menu button "My Library"
+2019-05-27T09:22:04.398Z [INFO]  test: Scenario 'Navigate to side menu button "My Library"' passed!
+2019-05-27T09:22:04.577Z [DEBUG] test: Before scenario Navigate to side menu button "My Library" using the right key code
+2019-05-27T09:22:05.141Z [INFO]  test: Start test: Navigate to side menu button "My Library" using the right key code
+2019-05-27T09:22:12.514Z [INFO]  test: Scenario 'Navigate to side menu button "My Library" using the right key code' passed!
+2019-05-27T09:22:12.646Z [DEBUG] test: Before scenario Navigate to side menu button "Settings"
+2019-05-27T09:22:13.296Z [INFO]  test: Start test: Navigate to side menu button "Settings"
+2019-05-27T09:22:18.767Z [INFO]  test: Scenario 'Navigate to side menu button "Settings"' passed!
+2019-05-27T09:22:18.921Z [DEBUG] test: Before scenario Navigate to side menu button "Settings" using the right key code
+2019-05-27T09:22:19.618Z [INFO]  test: Start test: Navigate to side menu button "Settings" using the right key code
+2019-05-27T09:22:25.043Z [INFO]  test: Scenario 'Navigate to side menu button "Settings" using the right key code' passed!
+2019-05-27T09:22:25.201Z [DEBUG] test: Before scenario Navigate to side menu button "Watch"
+2019-05-27T09:22:25.779Z [INFO]  test: Start test: Navigate to side menu button "Watch"
+2019-05-27T09:22:31.963Z [INFO]  test: Scenario 'Navigate to side menu button "Watch"' passed!
+2019-05-27T09:22:32.144Z [DEBUG] test: Before scenario Navigate to the player from the main menu
+2019-05-27T09:22:32.626Z [INFO]  test: Start test: Navigate to the player from the main menu
+2019-05-27T09:22:34.371Z [INFO]  test: Scenario 'Navigate to the player from the main menu' passed!
+2019-05-27T09:22:34.503Z [DEBUG] test: Before scenario Check for clock
+2019-05-27T09:22:35.091Z [INFO]  test: Start test: Check for clock
+2019-05-27T09:22:35.671Z [INFO]  test: Scenario 'Check for clock' passed!
+2019-05-27T09:22:36.854Z [DEBUG] test: Before scenario Press the back button while on the main menu
+2019-05-27T09:22:37.227Z [INFO]  test: Start test: Press the back button while on the main menu
+2019-05-27T09:22:38.837Z [INFO]  test: Scenario 'Press the back button while on the main menu' passed!
+2019-05-27T09:23:05.588Z [INFO]  test: initialize test run...
+2019-05-27T09:23:18.213Z [DEBUG] test: Before scenario Start the application
+2019-05-27T09:23:26.806Z [INFO]  test: Start test: Start the application
+2019-05-27T09:23:37.211Z [INFO]  test: Scenario 'Start the application' passed!
+2019-05-27T09:23:37.515Z [DEBUG] test: Before scenario Navigate to the side menu button "Home"
+2019-05-27T09:23:37.972Z [INFO]  test: Start test: Navigate to the side menu button "Home"
+2019-05-27T09:23:43.682Z [INFO]  test: Scenario 'Navigate to the side menu button "Home"' passed!
+2019-05-27T09:23:43.880Z [DEBUG] test: Before scenario Navigate to the side menu button "Home" using the right key code
+2019-05-27T09:23:44.478Z [INFO]  test: Start test: Navigate to the side menu button "Home" using the right key code
+2019-05-27T09:23:47.932Z [INFO]  test: Scenario 'Navigate to the side menu button "Home" using the right key code' passed!
+2019-05-27T09:23:48.070Z [DEBUG] test: Before scenario Navigate to side menu button "Channels"
+2019-05-27T09:23:48.812Z [INFO]  test: Start test: Navigate to side menu button "Channels"
+2019-05-27T09:23:56.248Z [INFO]  test: Scenario 'Navigate to side menu button "Channels"' passed!
+2019-05-27T09:23:56.430Z [DEBUG] test: Before scenario Navigate to side menu button "Channels" using the right key code
+2019-05-27T09:23:56.880Z [INFO]  test: Start test: Navigate to side menu button "Channels" using the right key code
+2019-05-27T09:24:03.663Z [INFO]  test: Scenario 'Navigate to side menu button "Channels" using the right key code' passed!
+2019-05-27T09:24:03.849Z [DEBUG] test: Before scenario Navigate to side menu button "On Demand"
+2019-05-27T09:24:04.533Z [INFO]  test: Start test: Navigate to side menu button "On Demand"
+2019-05-27T09:24:09.995Z [INFO]  test: Scenario 'Navigate to side menu button "On Demand"' passed!
+2019-05-27T09:24:10.278Z [DEBUG] test: Before scenario Navigate to side menu button "On Demand" using the right key code
+2019-05-27T09:24:10.762Z [INFO]  test: Start test: Navigate to side menu button "On Demand" using the right key code
+2019-05-27T09:24:15.413Z [INFO]  test: Scenario 'Navigate to side menu button "On Demand" using the right key code' passed!
+2019-05-27T09:24:15.737Z [DEBUG] test: Before scenario Navigate to side menu button "My Library"
+2019-05-27T09:24:16.301Z [INFO]  test: Start test: Navigate to side menu button "My Library"
+2019-05-27T09:24:24.173Z [INFO]  test: Scenario 'Navigate to side menu button "My Library"' passed!
+2019-05-27T09:24:24.391Z [DEBUG] test: Before scenario Navigate to side menu button "My Library" using the right key code
+2019-05-27T09:24:25.165Z [INFO]  test: Start test: Navigate to side menu button "My Library" using the right key code
+2019-05-27T09:24:32.541Z [INFO]  test: Scenario 'Navigate to side menu button "My Library" using the right key code' passed!
+2019-05-27T09:24:32.760Z [DEBUG] test: Before scenario Navigate to side menu button "Settings"
+2019-05-27T09:24:33.223Z [INFO]  test: Start test: Navigate to side menu button "Settings"
+2019-05-27T09:24:38.602Z [INFO]  test: Scenario 'Navigate to side menu button "Settings"' passed!
+2019-05-27T09:24:38.752Z [DEBUG] test: Before scenario Navigate to side menu button "Settings" using the right key code
+2019-05-27T09:24:39.203Z [INFO]  test: Start test: Navigate to side menu button "Settings" using the right key code
+2019-05-27T09:24:44.842Z [INFO]  test: Scenario 'Navigate to side menu button "Settings" using the right key code' passed!
+2019-05-27T09:24:45.020Z [DEBUG] test: Before scenario Navigate to side menu button "Watch"
+2019-05-27T09:24:45.576Z [INFO]  test: Start test: Navigate to side menu button "Watch"
+2019-05-27T09:24:50.853Z [INFO]  test: Scenario 'Navigate to side menu button "Watch"' passed!
+2019-05-27T09:24:50.988Z [DEBUG] test: Before scenario Navigate to the player from the main menu
+2019-05-27T09:24:51.496Z [INFO]  test: Start test: Navigate to the player from the main menu
+2019-05-27T09:24:53.266Z [INFO]  test: Scenario 'Navigate to the player from the main menu' passed!
+2019-05-27T09:24:53.429Z [DEBUG] test: Before scenario Check for clock
+2019-05-27T09:24:53.905Z [INFO]  test: Start test: Check for clock
+2019-05-27T09:24:54.683Z [INFO]  test: Scenario 'Check for clock' passed!
+2019-05-27T09:24:54.868Z [DEBUG] test: Before scenario Press the back button while on the main menu
+2019-05-27T09:24:55.264Z [INFO]  test: Start test: Press the back button while on the main menu
+2019-05-27T09:24:57.156Z [INFO]  test: Scenario 'Press the back button while on the main menu' passed!
+2019-05-27T09:27:29.014Z [INFO]  test: initialize test run...
+2019-05-27T09:27:40.919Z [DEBUG] test: Before scenario Start the application
+2019-05-27T09:27:48.520Z [INFO]  test: Start test: Start the application
+2019-05-27T09:28:01.419Z [INFO]  test: Scenario 'Start the application' passed!
+2019-05-27T09:28:01.758Z [DEBUG] test: Before scenario Navigate to the side menu button "Home"
+2019-05-27T09:28:02.230Z [INFO]  test: Start test: Navigate to the side menu button "Home"
+2019-05-27T09:28:07.592Z [INFO]  test: Scenario 'Navigate to the side menu button "Home"' passed!
+2019-05-27T09:28:07.757Z [DEBUG] test: Before scenario Navigate to the side menu button "Home" using the right key code
+2019-05-27T09:28:08.466Z [INFO]  test: Start test: Navigate to the side menu button "Home" using the right key code
+2019-05-27T09:28:11.823Z [INFO]  test: Scenario 'Navigate to the side menu button "Home" using the right key code' passed!
+2019-05-27T09:28:11.986Z [DEBUG] test: Before scenario Navigate to side menu button "Channels"
+2019-05-27T09:28:12.551Z [INFO]  test: Start test: Navigate to side menu button "Channels"
+2019-05-27T09:28:20.912Z [INFO]  test: Scenario 'Navigate to side menu button "Channels"' passed!
+2019-05-27T09:28:21.159Z [DEBUG] test: Before scenario Navigate to side menu button "Channels" using the right key code
+2019-05-27T09:28:21.635Z [INFO]  test: Start test: Navigate to side menu button "Channels" using the right key code
+2019-05-27T09:28:29.339Z [INFO]  test: Scenario 'Navigate to side menu button "Channels" using the right key code' passed!
+2019-05-27T09:28:29.522Z [DEBUG] test: Before scenario Navigate to side menu button "On Demand"
+2019-05-27T09:28:30.032Z [INFO]  test: Start test: Navigate to side menu button "On Demand"
+2019-05-27T09:28:38.771Z [INFO]  test: Scenario 'Navigate to side menu button "On Demand"' passed!
+2019-05-27T09:28:39.210Z [DEBUG] test: Before scenario Navigate to side menu button "On Demand" using the right key code
+2019-05-27T09:28:39.740Z [INFO]  test: Start test: Navigate to side menu button "On Demand" using the right key code
+2019-05-27T09:28:46.669Z [INFO]  test: Scenario 'Navigate to side menu button "On Demand" using the right key code' passed!
+2019-05-27T09:28:46.878Z [DEBUG] test: Before scenario Navigate to side menu button "My Library"
+2019-05-27T09:28:47.473Z [INFO]  test: Start test: Navigate to side menu button "My Library"
+2019-05-27T09:28:55.128Z [INFO]  test: Scenario 'Navigate to side menu button "My Library"' passed!
+2019-05-27T09:28:55.341Z [DEBUG] test: Before scenario Navigate to side menu button "My Library" using the right key code
+2019-05-27T09:28:55.789Z [INFO]  test: Start test: Navigate to side menu button "My Library" using the right key code
+2019-05-27T09:29:02.804Z [INFO]  test: Scenario 'Navigate to side menu button "My Library" using the right key code' passed!
+2019-05-27T09:29:02.944Z [DEBUG] test: Before scenario Navigate to side menu button "Settings"
+2019-05-27T09:29:03.440Z [INFO]  test: Start test: Navigate to side menu button "Settings"
+2019-05-27T09:29:08.825Z [INFO]  test: Scenario 'Navigate to side menu button "Settings"' passed!
+2019-05-27T09:29:09.022Z [DEBUG] test: Before scenario Navigate to side menu button "Settings" using the right key code
+2019-05-27T09:29:09.531Z [INFO]  test: Start test: Navigate to side menu button "Settings" using the right key code
+2019-05-27T09:29:14.798Z [INFO]  test: Scenario 'Navigate to side menu button "Settings" using the right key code' passed!
+2019-05-27T09:29:14.945Z [DEBUG] test: Before scenario Navigate to side menu button "Watch"
+2019-05-27T09:29:15.403Z [INFO]  test: Start test: Navigate to side menu button "Watch"
+2019-05-27T09:29:20.731Z [INFO]  test: Scenario 'Navigate to side menu button "Watch"' passed!
+2019-05-27T09:29:20.887Z [DEBUG] test: Before scenario Navigate to the player from the main menu
+2019-05-27T09:29:21.484Z [INFO]  test: Start test: Navigate to the player from the main menu
+2019-05-27T09:29:23.008Z [INFO]  test: Scenario 'Navigate to the player from the main menu' passed!
+2019-05-27T09:29:23.148Z [DEBUG] test: Before scenario Check for clock
+2019-05-27T09:29:23.791Z [INFO]  test: Start test: Check for clock
+2019-05-27T09:29:24.900Z [INFO]  test: Scenario 'Check for clock' passed!
+2019-05-27T09:29:25.035Z [DEBUG] test: Before scenario Press the back button while on the main menu
+2019-05-27T09:29:25.398Z [INFO]  test: Start test: Press the back button while on the main menu
+2019-05-27T09:29:26.935Z [INFO]  test: Scenario 'Press the back button while on the main menu' passed!
+2019-05-27T09:30:14.533Z [INFO]  test: initialize test run...
+2019-05-27T09:30:26.483Z [DEBUG] test: Before scenario Start the application
+2019-05-27T09:30:34.086Z [INFO]  test: Start test: Start the application
+2019-05-27T09:30:47.014Z [INFO]  test: Scenario 'Start the application' passed!
+2019-05-27T09:30:47.470Z [DEBUG] test: Before scenario Navigate to the side menu button "Home"
+2019-05-27T09:30:47.898Z [INFO]  test: Start test: Navigate to the side menu button "Home"
+2019-05-27T09:30:54.312Z [INFO]  test: Scenario 'Navigate to the side menu button "Home"' passed!
+2019-05-27T09:30:54.567Z [DEBUG] test: Before scenario Navigate to the side menu button "Home" using the right key code
+2019-05-27T09:30:55.169Z [INFO]  test: Start test: Navigate to the side menu button "Home" using the right key code
+2019-05-27T09:30:59.214Z [INFO]  test: Scenario 'Navigate to the side menu button "Home" using the right key code' passed!
+2019-05-27T09:30:59.479Z [DEBUG] test: Before scenario Navigate to side menu button "Channels"
+2019-05-27T09:31:00.199Z [INFO]  test: Start test: Navigate to side menu button "Channels"
+2019-05-27T09:31:09.154Z [INFO]  test: Scenario 'Navigate to side menu button "Channels"' passed!
+2019-05-27T09:31:09.452Z [DEBUG] test: Before scenario Navigate to side menu button "Channels" using the right key code
+2019-05-27T09:31:10.085Z [INFO]  test: Start test: Navigate to side menu button "Channels" using the right key code
+2019-05-27T09:31:18.391Z [INFO]  test: Scenario 'Navigate to side menu button "Channels" using the right key code' passed!
+2019-05-27T09:31:18.626Z [DEBUG] test: Before scenario Navigate to side menu button "On Demand"
+2019-05-27T09:31:19.157Z [INFO]  test: Start test: Navigate to side menu button "On Demand"
+2019-05-27T09:31:25.218Z [INFO]  test: Scenario 'Navigate to side menu button "On Demand"' passed!
+2019-05-27T09:31:25.485Z [DEBUG] test: Before scenario Navigate to side menu button "On Demand" using the right key code
+2019-05-27T09:31:26.168Z [INFO]  test: Start test: Navigate to side menu button "On Demand" using the right key code
+2019-05-27T09:31:31.516Z [INFO]  test: Scenario 'Navigate to side menu button "On Demand" using the right key code' passed!
+2019-05-27T09:31:31.868Z [DEBUG] test: Before scenario Navigate to side menu button "My Library"
+2019-05-27T09:31:32.582Z [INFO]  test: Start test: Navigate to side menu button "My Library"
+2019-05-27T09:31:40.690Z [INFO]  test: Scenario 'Navigate to side menu button "My Library"' passed!
+2019-05-27T09:31:40.890Z [DEBUG] test: Before scenario Navigate to side menu button "My Library" using the right key code
+2019-05-27T09:31:41.429Z [INFO]  test: Start test: Navigate to side menu button "My Library" using the right key code
+2019-05-27T09:31:49.098Z [INFO]  test: Scenario 'Navigate to side menu button "My Library" using the right key code' passed!
+2019-05-27T09:31:49.251Z [DEBUG] test: Before scenario Navigate to side menu button "Settings"
+2019-05-27T09:31:49.843Z [INFO]  test: Start test: Navigate to side menu button "Settings"
+2019-05-27T09:31:55.465Z [INFO]  test: Scenario 'Navigate to side menu button "Settings"' passed!
+2019-05-27T09:31:55.637Z [DEBUG] test: Before scenario Navigate to side menu button "Settings" using the right key code
+2019-05-27T09:31:56.193Z [INFO]  test: Start test: Navigate to side menu button "Settings" using the right key code
+2019-05-27T09:32:01.801Z [INFO]  test: Scenario 'Navigate to side menu button "Settings" using the right key code' passed!
+2019-05-27T09:32:01.943Z [DEBUG] test: Before scenario Navigate to side menu button "Watch"
+2019-05-27T09:32:02.342Z [INFO]  test: Start test: Navigate to side menu button "Watch"
+2019-05-27T09:32:07.919Z [INFO]  test: Scenario 'Navigate to side menu button "Watch"' passed!
+2019-05-27T09:32:08.050Z [DEBUG] test: Before scenario Navigate to the player from the main menu
+2019-05-27T09:32:08.477Z [INFO]  test: Start test: Navigate to the player from the main menu
+2019-05-27T09:32:10.169Z [INFO]  test: Scenario 'Navigate to the player from the main menu' passed!
+2019-05-27T09:32:10.339Z [DEBUG] test: Before scenario Check for clock
+2019-05-27T09:32:10.954Z [INFO]  test: Start test: Check for clock
+2019-05-27T09:32:11.630Z [INFO]  test: Scenario 'Check for clock' passed!
+2019-05-27T09:32:11.790Z [DEBUG] test: Before scenario Press the back button while on the main menu
+2019-05-27T09:32:12.154Z [INFO]  test: Start test: Press the back button while on the main menu
+2019-05-27T09:32:13.758Z [INFO]  test: Scenario 'Press the back button while on the main menu' passed!
+2019-05-27T14:38:55.899Z [INFO]  test: initialize test run...
+2019-05-27T14:39:19.136Z [INFO]  test: initialize test run...
+2019-05-27T14:39:32.745Z [INFO]  test: initialize test run...
+2019-05-27T14:40:42.563Z [INFO]  test: initialize test run...
+2019-05-27T14:40:55.708Z [DEBUG] test: Before scenario Start the application
+2019-05-27T14:41:02.340Z [INFO]  test: Start test: Start the application
+2019-05-27T14:41:14.175Z [INFO]  test: Scenario 'Start the application' passed!
+2019-05-27T14:41:14.421Z [DEBUG] test: Before scenario Navigate to the side menu button "Home"
+2019-05-27T14:41:14.872Z [INFO]  test: Start test: Navigate to the side menu button "Home"
+2019-05-27T14:41:28.113Z [INFO]  test: Scenario 'Navigate to the side menu button "Home"' failed!
+2019-05-27T14:41:28.269Z [DEBUG] test: Before scenario Navigate to the side menu button "Home" using the right key code
+2019-05-27T14:41:28.933Z [INFO]  test: Start test: Navigate to the side menu button "Home" using the right key code
+2019-05-27T14:41:33.051Z [INFO]  test: Scenario 'Navigate to the side menu button "Home" using the right key code' passed!
+2019-05-27T14:41:33.205Z [DEBUG] test: Before scenario Navigate to side menu button "Channels"
+2019-05-27T14:41:33.697Z [INFO]  test: Start test: Navigate to side menu button "Channels"
+2019-05-27T14:41:41.907Z [INFO]  test: Scenario 'Navigate to side menu button "Channels"' passed!
+2019-05-27T14:41:42.065Z [DEBUG] test: Before scenario Navigate to side menu button "Channels" using the right key code
+2019-05-27T14:41:42.467Z [INFO]  test: Start test: Navigate to side menu button "Channels" using the right key code
+2019-05-27T14:41:48.716Z [INFO]  test: Scenario 'Navigate to side menu button "Channels" using the right key code' passed!
+2019-05-27T14:41:48.936Z [DEBUG] test: Before scenario Navigate to side menu button "On Demand"
+2019-05-27T14:41:49.602Z [INFO]  test: Start test: Navigate to side menu button "On Demand"
+2019-05-27T14:41:55.094Z [INFO]  test: Scenario 'Navigate to side menu button "On Demand"' passed!
+2019-05-27T14:41:55.590Z [DEBUG] test: Before scenario Navigate to side menu button "On Demand" using the right key code
+2019-05-27T14:41:56.078Z [INFO]  test: Start test: Navigate to side menu button "On Demand" using the right key code
+2019-05-27T14:42:00.798Z [INFO]  test: Scenario 'Navigate to side menu button "On Demand" using the right key code' passed!
+2019-05-27T14:42:01.133Z [DEBUG] test: Before scenario Navigate to side menu button "My Library"
+2019-05-27T14:42:01.789Z [INFO]  test: Start test: Navigate to side menu button "My Library"
+2019-05-27T14:42:08.411Z [INFO]  test: Scenario 'Navigate to side menu button "My Library"' passed!
+2019-05-27T14:42:08.622Z [DEBUG] test: Before scenario Navigate to side menu button "My Library" using the right key code
+2019-05-27T14:42:09.125Z [INFO]  test: Start test: Navigate to side menu button "My Library" using the right key code
+2019-05-27T14:42:15.592Z [INFO]  test: Scenario 'Navigate to side menu button "My Library" using the right key code' passed!
+2019-05-27T14:42:15.770Z [DEBUG] test: Before scenario Navigate to side menu button "Settings"
+2019-05-27T14:42:16.385Z [INFO]  test: Start test: Navigate to side menu button "Settings"
+2019-05-27T14:42:21.905Z [INFO]  test: Scenario 'Navigate to side menu button "Settings"' passed!
+2019-05-27T14:42:22.073Z [DEBUG] test: Before scenario Navigate to side menu button "Settings" using the right key code
+2019-05-27T14:42:22.589Z [INFO]  test: Start test: Navigate to side menu button "Settings" using the right key code
+2019-05-27T14:42:27.971Z [INFO]  test: Scenario 'Navigate to side menu button "Settings" using the right key code' passed!
+2019-05-27T14:42:28.108Z [DEBUG] test: Before scenario Navigate to side menu button "Watch"
+2019-05-27T14:42:28.600Z [INFO]  test: Start test: Navigate to side menu button "Watch"
+2019-05-27T14:42:33.953Z [INFO]  test: Scenario 'Navigate to side menu button "Watch"' passed!
+2019-05-27T14:42:34.188Z [DEBUG] test: Before scenario Navigate to the player from the main menu
+2019-05-27T14:42:34.764Z [INFO]  test: Start test: Navigate to the player from the main menu
+2019-05-27T14:42:36.303Z [INFO]  test: Scenario 'Navigate to the player from the main menu' passed!
+2019-05-27T14:42:36.519Z [DEBUG] test: Before scenario Check for clock
+2019-05-27T14:42:37.000Z [INFO]  test: Start test: Check for clock
+2019-05-27T14:42:37.767Z [INFO]  test: Scenario 'Check for clock' passed!
+2019-05-27T14:42:37.929Z [DEBUG] test: Before scenario Press the back button while on the main menu
+2019-05-27T14:42:38.326Z [INFO]  test: Start test: Press the back button while on the main menu
+2019-05-27T14:42:39.797Z [INFO]  test: Scenario 'Press the back button while on the main menu' passed!
+2019-05-28T09:49:07.808Z [INFO]  test: initialize test run...
+2019-05-28T09:49:40.083Z [INFO]  test: initialize test run...
+2019-05-28T09:49:54.448Z [DEBUG] test: Before scenario Start the application
+2019-05-28T09:49:57.703Z [INFO]  test: Start test: Start the application
+2019-05-28T09:50:12.618Z [INFO]  test: Scenario 'Start the application' passed!
+2019-05-28T09:50:12.961Z [DEBUG] test: Before scenario Navigate to the side menu button "Home"
+2019-05-28T09:50:13.394Z [INFO]  test: Start test: Navigate to the side menu button "Home"
+2019-05-28T09:50:26.338Z [INFO]  test: Scenario 'Navigate to the side menu button "Home"' failed!
+2019-05-28T09:50:26.506Z [DEBUG] test: Before scenario Navigate to the side menu button "Home" using the right key code
+2019-05-28T09:50:27.042Z [INFO]  test: Start test: Navigate to the side menu button "Home" using the right key code
+2019-05-28T09:50:31.762Z [INFO]  test: Scenario 'Navigate to the side menu button "Home" using the right key code' passed!
+2019-05-28T09:50:31.989Z [DEBUG] test: Before scenario Navigate to side menu button "Channels"
+2019-05-28T09:50:32.491Z [INFO]  test: Start test: Navigate to side menu button "Channels"
+2019-05-28T09:50:39.569Z [INFO]  test: Scenario 'Navigate to side menu button "Channels"' passed!
+2019-05-28T09:50:39.743Z [DEBUG] test: Before scenario Navigate to side menu button "Channels" using the right key code
+2019-05-28T09:50:40.130Z [INFO]  test: Start test: Navigate to side menu button "Channels" using the right key code
+2019-05-28T09:50:46.976Z [INFO]  test: Scenario 'Navigate to side menu button "Channels" using the right key code' passed!
+2019-05-28T09:50:47.194Z [DEBUG] test: Before scenario Navigate to side menu button "On Demand"
+2019-05-28T09:50:47.685Z [INFO]  test: Start test: Navigate to side menu button "On Demand"
+2019-05-28T09:50:58.811Z [INFO]  test: Scenario 'Navigate to side menu button "On Demand"' passed!
+2019-05-28T09:50:59.098Z [DEBUG] test: Before scenario Navigate to side menu button "On Demand" using the right key code
+2019-05-28T09:50:59.639Z [INFO]  test: Start test: Navigate to side menu button "On Demand" using the right key code
+2019-05-28T09:51:10.800Z [INFO]  test: Scenario 'Navigate to side menu button "On Demand" using the right key code' passed!
+2019-05-28T09:51:11.102Z [DEBUG] test: Before scenario Navigate to side menu button "My Library"
+2019-05-28T09:51:11.684Z [INFO]  test: Start test: Navigate to side menu button "My Library"
+2019-05-28T09:51:19.287Z [INFO]  test: Scenario 'Navigate to side menu button "My Library"' passed!
+2019-05-28T09:51:19.461Z [DEBUG] test: Before scenario Navigate to side menu button "My Library" using the right key code
+2019-05-28T09:51:19.924Z [INFO]  test: Start test: Navigate to side menu button "My Library" using the right key code
+2019-05-28T09:51:26.551Z [INFO]  test: Scenario 'Navigate to side menu button "My Library" using the right key code' passed!
+2019-05-28T09:51:26.706Z [DEBUG] test: Before scenario Navigate to side menu button "Settings"
+2019-05-28T09:51:27.273Z [INFO]  test: Start test: Navigate to side menu button "Settings"
+2019-05-28T09:51:32.990Z [INFO]  test: Scenario 'Navigate to side menu button "Settings"' passed!
+2019-05-28T09:51:33.140Z [DEBUG] test: Before scenario Navigate to side menu button "Settings" using the right key code
+2019-05-28T09:51:33.571Z [INFO]  test: Start test: Navigate to side menu button "Settings" using the right key code
+2019-05-28T09:51:38.518Z [INFO]  test: Scenario 'Navigate to side menu button "Settings" using the right key code' passed!
+2019-05-28T09:51:38.670Z [DEBUG] test: Before scenario Navigate to side menu button "Watch"
+2019-05-28T09:51:39.169Z [INFO]  test: Start test: Navigate to side menu button "Watch"
+2019-05-28T09:51:44.814Z [INFO]  test: Scenario 'Navigate to side menu button "Watch"' passed!
+2019-05-28T09:51:44.971Z [DEBUG] test: Before scenario Navigate to the player from the main menu
+2019-05-28T09:51:45.531Z [INFO]  test: Start test: Navigate to the player from the main menu
+2019-05-28T09:51:47.060Z [INFO]  test: Scenario 'Navigate to the player from the main menu' passed!
+2019-05-28T09:51:47.212Z [DEBUG] test: Before scenario Check for clock
+2019-05-28T09:51:47.706Z [INFO]  test: Start test: Check for clock
+2019-05-28T09:51:48.330Z [INFO]  test: Scenario 'Check for clock' passed!
+2019-05-28T09:51:48.480Z [DEBUG] test: Before scenario Press the back button while on the main menu
+2019-05-28T09:51:48.856Z [INFO]  test: Start test: Press the back button while on the main menu
+2019-05-28T09:51:50.300Z [INFO]  test: Scenario 'Press the back button while on the main menu' passed!
+2019-05-28T10:04:27.257Z [INFO]  test: initialize test run...
+2019-05-28T10:04:38.134Z [DEBUG] test: Before scenario Start the application
+2019-05-28T10:04:41.150Z [INFO]  test: Start test: Start the application
+2019-05-28T10:04:55.662Z [INFO]  test: Scenario 'Start the application' passed!
+2019-05-28T10:04:55.857Z [DEBUG] test: Before scenario Navigate to the side menu button "Home"
+2019-05-28T10:04:56.303Z [INFO]  test: Start test: Navigate to the side menu button "Home"
+2019-05-28T10:05:09.288Z [INFO]  test: Scenario 'Navigate to the side menu button "Home"' failed!
+2019-05-28T10:05:09.459Z [DEBUG] test: Before scenario Navigate to the side menu button "Home" using the right key code
+2019-05-28T10:05:09.918Z [INFO]  test: Start test: Navigate to the side menu button "Home" using the right key code
+2019-05-28T10:05:13.500Z [INFO]  test: Scenario 'Navigate to the side menu button "Home" using the right key code' passed!
+2019-05-28T10:05:13.692Z [DEBUG] test: Before scenario Navigate to side menu button "Channels"
+2019-05-28T10:05:14.376Z [INFO]  test: Start test: Navigate to side menu button "Channels"
+2019-05-28T10:05:21.986Z [INFO]  test: Scenario 'Navigate to side menu button "Channels"' passed!
+2019-05-28T10:05:22.230Z [DEBUG] test: Before scenario Navigate to side menu button "Channels" using the right key code
+2019-05-28T10:05:22.659Z [INFO]  test: Start test: Navigate to side menu button "Channels" using the right key code
+2019-05-28T10:05:28.724Z [INFO]  test: Scenario 'Navigate to side menu button "Channels" using the right key code' passed!
+2019-05-28T10:05:28.938Z [DEBUG] test: Before scenario Navigate to side menu button "On Demand"
+2019-05-28T10:05:29.466Z [INFO]  test: Start test: Navigate to side menu button "On Demand"
+2019-05-28T10:05:40.676Z [INFO]  test: Scenario 'Navigate to side menu button "On Demand"' passed!
+2019-05-28T10:05:41.035Z [DEBUG] test: Before scenario Navigate to side menu button "On Demand" using the right key code
+2019-05-28T10:05:41.583Z [INFO]  test: Start test: Navigate to side menu button "On Demand" using the right key code
+2019-05-28T10:05:51.090Z [INFO]  test: Scenario 'Navigate to side menu button "On Demand" using the right key code' passed!
+2019-05-28T10:05:51.413Z [DEBUG] test: Before scenario Navigate to side menu button "My Library"
+2019-05-28T10:05:51.920Z [INFO]  test: Start test: Navigate to side menu button "My Library"
+2019-05-28T10:05:59.443Z [INFO]  test: Scenario 'Navigate to side menu button "My Library"' passed!
+2019-05-28T10:05:59.624Z [DEBUG] test: Before scenario Navigate to side menu button "My Library" using the right key code
+2019-05-28T10:06:00.088Z [INFO]  test: Start test: Navigate to side menu button "My Library" using the right key code
+2019-05-28T10:06:07.294Z [INFO]  test: Scenario 'Navigate to side menu button "My Library" using the right key code' passed!
+2019-05-28T10:06:07.425Z [DEBUG] test: Before scenario Navigate to side menu button "Settings"
+2019-05-28T10:06:07.884Z [INFO]  test: Start test: Navigate to side menu button "Settings"
+2019-05-28T10:06:13.389Z [INFO]  test: Scenario 'Navigate to side menu button "Settings"' passed!
+2019-05-28T10:06:13.581Z [DEBUG] test: Before scenario Navigate to side menu button "Settings" using the right key code
+2019-05-28T10:06:14.071Z [INFO]  test: Start test: Navigate to side menu button "Settings" using the right key code
+2019-05-28T10:06:18.849Z [INFO]  test: Scenario 'Navigate to side menu button "Settings" using the right key code' passed!
+2019-05-28T10:06:18.987Z [DEBUG] test: Before scenario Navigate to side menu button "Watch"
+2019-05-28T10:06:19.622Z [INFO]  test: Start test: Navigate to side menu button "Watch"
+2019-05-28T10:06:25.131Z [INFO]  test: Scenario 'Navigate to side menu button "Watch"' passed!
+2019-05-28T10:06:25.294Z [DEBUG] test: Before scenario Navigate to the player from the main menu
+2019-05-28T10:06:25.771Z [INFO]  test: Start test: Navigate to the player from the main menu
+2019-05-28T10:06:27.281Z [INFO]  test: Scenario 'Navigate to the player from the main menu' passed!
+2019-05-28T10:06:27.409Z [DEBUG] test: Before scenario Check for clock
+2019-05-28T10:06:28.124Z [INFO]  test: Start test: Check for clock
+2019-05-28T10:06:28.699Z [INFO]  test: Scenario 'Check for clock' passed!
+2019-05-28T10:06:28.940Z [DEBUG] test: Before scenario Press the back button while on the main menu
+2019-05-28T10:06:29.286Z [INFO]  test: Start test: Press the back button while on the main menu
+2019-05-28T10:06:31.083Z [INFO]  test: Scenario 'Press the back button while on the main menu' passed!
+2019-05-28T11:11:23.565Z [INFO]  test: initialize test run...
+2019-05-28T11:11:34.146Z [DEBUG] test: Before scenario Start the application
+2019-05-28T11:11:37.322Z [INFO]  test: Start test: Start the application
+2019-05-28T11:11:52.282Z [INFO]  test: Scenario 'Start the application' passed!
+2019-05-28T11:11:52.597Z [DEBUG] test: Before scenario Navigate to the side menu button "Home"
+2019-05-28T11:11:53.054Z [INFO]  test: Start test: Navigate to the side menu button "Home"
+2019-05-28T11:12:05.943Z [INFO]  test: Scenario 'Navigate to the side menu button "Home"' failed!
+2019-05-28T11:12:06.125Z [DEBUG] test: Before scenario Navigate to the side menu button "Home" using the right key code
+2019-05-28T11:12:06.615Z [INFO]  test: Start test: Navigate to the side menu button "Home" using the right key code
+2019-05-28T11:12:11.705Z [INFO]  test: Scenario 'Navigate to the side menu button "Home" using the right key code' passed!
+2019-05-28T11:12:11.886Z [DEBUG] test: Before scenario Navigate to side menu button "Channels"
+2019-05-28T11:12:12.505Z [INFO]  test: Start test: Navigate to side menu button "Channels"
+2019-05-28T11:12:19.965Z [INFO]  test: Scenario 'Navigate to side menu button "Channels"' passed!
+2019-05-28T11:12:20.135Z [DEBUG] test: Before scenario Navigate to side menu button "Channels" using the right key code
+2019-05-28T11:12:20.656Z [INFO]  test: Start test: Navigate to side menu button "Channels" using the right key code
+2019-05-28T11:12:26.892Z [INFO]  test: Scenario 'Navigate to side menu button "Channels" using the right key code' passed!
+2019-05-28T11:12:27.091Z [DEBUG] test: Before scenario Navigate to side menu button "On Demand"
+2019-05-28T11:12:27.503Z [INFO]  test: Start test: Navigate to side menu button "On Demand"
+2019-05-28T11:12:38.565Z [INFO]  test: Scenario 'Navigate to side menu button "On Demand"' passed!
+2019-05-28T11:12:38.911Z [DEBUG] test: Before scenario Navigate to side menu button "On Demand" using the right key code
+2019-05-28T11:12:39.456Z [INFO]  test: Start test: Navigate to side menu button "On Demand" using the right key code
+2019-05-28T11:12:49.795Z [INFO]  test: Scenario 'Navigate to side menu button "On Demand" using the right key code' passed!
+2019-05-28T11:12:50.157Z [DEBUG] test: Before scenario Navigate to side menu button "My Library"
+2019-05-28T11:12:50.736Z [INFO]  test: Start test: Navigate to side menu button "My Library"
+2019-05-28T11:12:58.291Z [INFO]  test: Scenario 'Navigate to side menu button "My Library"' passed!
+2019-05-28T11:12:58.470Z [DEBUG] test: Before scenario Navigate to side menu button "My Library" using the right key code
+2019-05-28T11:12:58.885Z [INFO]  test: Start test: Navigate to side menu button "My Library" using the right key code
+2019-05-28T11:13:06.148Z [INFO]  test: Scenario 'Navigate to side menu button "My Library" using the right key code' passed!
+2019-05-28T11:13:06.321Z [DEBUG] test: Before scenario Navigate to side menu button "Settings"
+2019-05-28T11:13:06.876Z [INFO]  test: Start test: Navigate to side menu button "Settings"
+2019-05-28T11:13:12.110Z [INFO]  test: Scenario 'Navigate to side menu button "Settings"' passed!
+2019-05-28T11:13:12.272Z [DEBUG] test: Before scenario Navigate to side menu button "Settings" using the right key code
+2019-05-28T11:13:12.698Z [INFO]  test: Start test: Navigate to side menu button "Settings" using the right key code
+2019-05-28T11:13:17.977Z [INFO]  test: Scenario 'Navigate to side menu button "Settings" using the right key code' passed!
+2019-05-28T11:13:18.137Z [DEBUG] test: Before scenario Navigate to side menu button "Watch"
+2019-05-28T11:13:18.596Z [INFO]  test: Start test: Navigate to side menu button "Watch"
+2019-05-28T11:13:24.528Z [INFO]  test: Scenario 'Navigate to side menu button "Watch"' passed!
+2019-05-28T11:13:24.827Z [DEBUG] test: Before scenario Navigate to the player from the main menu
+2019-05-28T11:13:25.312Z [INFO]  test: Start test: Navigate to the player from the main menu
+2019-05-28T11:13:26.900Z [INFO]  test: Scenario 'Navigate to the player from the main menu' passed!
+2019-05-28T11:13:27.051Z [DEBUG] test: Before scenario Check for clock
+2019-05-28T11:13:27.594Z [INFO]  test: Start test: Check for clock
+2019-05-28T11:13:28.372Z [INFO]  test: Scenario 'Check for clock' passed!
+2019-05-28T11:13:28.537Z [DEBUG] test: Before scenario Press the back button while on the main menu
+2019-05-28T11:13:28.919Z [INFO]  test: Start test: Press the back button while on the main menu
+2019-05-28T11:13:30.505Z [INFO]  test: Scenario 'Press the back button while on the main menu' passed!
+2019-05-28T11:24:20.973Z [INFO]  test: initialize test run...
+2019-05-28T11:24:32.124Z [DEBUG] test: Before scenario Start the application
+2019-05-28T11:24:35.224Z [INFO]  test: Start test: Start the application
+2019-05-28T11:24:49.923Z [INFO]  test: Scenario 'Start the application' passed!
+2019-05-28T11:24:50.134Z [DEBUG] test: Before scenario Navigate to the side menu button "Home"
+2019-05-28T11:24:50.605Z [INFO]  test: Start test: Navigate to the side menu button "Home"
+2019-05-28T11:25:03.484Z [INFO]  test: Scenario 'Navigate to the side menu button "Home"' failed!
+2019-05-28T11:25:03.644Z [DEBUG] test: Before scenario Navigate to the side menu button "Home" using the right key code
+2019-05-28T11:25:04.215Z [INFO]  test: Start test: Navigate to the side menu button "Home" using the right key code
+2019-05-28T11:25:08.489Z [INFO]  test: Scenario 'Navigate to the side menu button "Home" using the right key code' passed!
+2019-05-28T11:25:08.655Z [DEBUG] test: Before scenario Navigate to side menu button "Channels"
+2019-05-28T11:25:09.229Z [INFO]  test: Start test: Navigate to side menu button "Channels"
+2019-05-28T11:25:16.314Z [INFO]  test: Scenario 'Navigate to side menu button "Channels"' passed!
+2019-05-28T11:25:16.515Z [DEBUG] test: Before scenario Navigate to side menu button "Channels" using the right key code
+2019-05-28T11:25:16.985Z [INFO]  test: Start test: Navigate to side menu button "Channels" using the right key code
+2019-05-28T11:25:25.111Z [INFO]  test: Scenario 'Navigate to side menu button "Channels" using the right key code' passed!
+2019-05-28T11:25:25.266Z [DEBUG] test: Before scenario Navigate to side menu button "On Demand"
+2019-05-28T11:25:25.824Z [INFO]  test: Start test: Navigate to side menu button "On Demand"
+2019-05-28T11:25:38.388Z [INFO]  test: Scenario 'Navigate to side menu button "On Demand"' passed!
+2019-05-28T11:25:38.742Z [DEBUG] test: Before scenario Navigate to side menu button "On Demand" using the right key code
+2019-05-28T11:25:39.271Z [INFO]  test: Start test: Navigate to side menu button "On Demand" using the right key code
+2019-05-28T11:25:50.486Z [INFO]  test: Scenario 'Navigate to side menu button "On Demand" using the right key code' passed!
+2019-05-28T11:25:50.784Z [DEBUG] test: Before scenario Navigate to side menu button "My Library"
+2019-05-28T11:25:51.261Z [INFO]  test: Start test: Navigate to side menu button "My Library"
+2019-05-28T11:25:58.846Z [INFO]  test: Scenario 'Navigate to side menu button "My Library"' passed!
+2019-05-28T11:25:59.031Z [DEBUG] test: Before scenario Navigate to side menu button "My Library" using the right key code
+2019-05-28T11:25:59.568Z [INFO]  test: Start test: Navigate to side menu button "My Library" using the right key code
+2019-05-28T11:26:06.706Z [INFO]  test: Scenario 'Navigate to side menu button "My Library" using the right key code' passed!
+2019-05-28T11:26:06.844Z [DEBUG] test: Before scenario Navigate to side menu button "Settings"
+2019-05-28T11:26:07.503Z [INFO]  test: Start test: Navigate to side menu button "Settings"
+2019-05-28T11:26:13.002Z [INFO]  test: Scenario 'Navigate to side menu button "Settings"' passed!
+2019-05-28T11:26:13.167Z [DEBUG] test: Before scenario Navigate to side menu button "Settings" using the right key code
+2019-05-28T11:26:13.661Z [INFO]  test: Start test: Navigate to side menu button "Settings" using the right key code
+2019-05-28T11:26:18.900Z [INFO]  test: Scenario 'Navigate to side menu button "Settings" using the right key code' passed!
+2019-05-28T11:26:19.053Z [DEBUG] test: Before scenario Navigate to side menu button "Watch"
+2019-05-28T11:26:19.764Z [INFO]  test: Start test: Navigate to side menu button "Watch"
+2019-05-28T11:26:25.121Z [INFO]  test: Scenario 'Navigate to side menu button "Watch"' passed!
+2019-05-28T11:26:25.293Z [DEBUG] test: Before scenario Navigate to the player from the main menu
+2019-05-28T11:26:25.790Z [INFO]  test: Start test: Navigate to the player from the main menu
+2019-05-28T11:26:27.362Z [INFO]  test: Scenario 'Navigate to the player from the main menu' passed!
+2019-05-28T11:26:27.495Z [DEBUG] test: Before scenario Check for clock
+2019-05-28T11:26:28.085Z [INFO]  test: Start test: Check for clock
+2019-05-28T11:26:28.698Z [INFO]  test: Scenario 'Check for clock' passed!
+2019-05-28T11:26:28.856Z [DEBUG] test: Before scenario Press the back button while on the main menu
+2019-05-28T11:26:29.225Z [INFO]  test: Start test: Press the back button while on the main menu
+2019-05-28T11:26:30.766Z [INFO]  test: Scenario 'Press the back button while on the main menu' passed!
+2019-05-28T11:28:16.635Z [INFO]  test: initialize test run...
+2019-05-28T11:28:26.659Z [DEBUG] test: Before scenario Start the application
+2019-05-28T11:28:29.265Z [INFO]  test: Start test: Start the application
+2019-05-28T11:28:43.557Z [INFO]  test: Scenario 'Start the application' passed!
+2019-05-28T11:49:25.855Z [INFO]  test: initialize test run...
+2019-05-28T11:49:35.679Z [DEBUG] test: Before scenario Start the application
+2019-05-28T11:49:38.467Z [INFO]  test: Start test: Start the application
+2019-05-28T11:49:51.198Z [INFO]  test: Scenario 'Start the application' passed!
+2019-05-28T13:44:35.681Z [INFO]  test: initialize test run...
+2019-05-28T13:44:46.307Z [DEBUG] test: Before scenario Check for basic elements
+2019-05-28T13:44:53.210Z [INFO]  test: Start test: Check for basic elements
+2019-05-28T13:45:03.022Z [INFO]  test: Scenario 'Check for basic elements' passed!
+2019-05-28T13:45:03.189Z [DEBUG] test: Before scenario Navigate to the carousel menu on the home page
+2019-05-28T13:45:03.787Z [INFO]  test: Start test: Navigate to the carousel menu on the home page
+2019-05-28T13:45:11.122Z [INFO]  test: Scenario 'Navigate to the carousel menu on the home page' passed!
+2019-05-28T13:45:11.289Z [DEBUG] test: Before scenario Moving through all the carousel menu banner
+2019-05-28T13:45:11.919Z [INFO]  test: Start test: Moving through all the carousel menu banner
+2019-05-28T13:45:22.284Z [INFO]  test: Scenario 'Moving through all the carousel menu banner' passed!
+2019-05-28T13:45:22.483Z [DEBUG] test: Before scenario Click on the carousel menu card
+2019-05-28T13:45:23.080Z [INFO]  test: Start test: Click on the carousel menu card
+2019-05-28T13:45:40.531Z [INFO]  test: Scenario 'Click on the carousel menu card' failed!
+2019-05-28T13:45:40.715Z [DEBUG] test: Before scenario Navigate to the "NOW ON TV" menu on the page
+2019-05-28T13:45:41.531Z [INFO]  test: Start test: Navigate to the "NOW ON TV" menu on the page
+2019-05-28T13:45:43.102Z [INFO]  test: Scenario 'Navigate to the "NOW ON TV" menu on the page' passed!
+2019-05-28T13:45:43.278Z [DEBUG] test: Before scenario Move through the "NOW ON TV" cards
+2019-05-28T13:45:43.849Z [INFO]  test: Start test: Move through the "NOW ON TV" cards
+2019-05-28T13:45:51.297Z [INFO]  test: Scenario 'Move through the "NOW ON TV" cards' passed!
+2019-05-28T13:45:51.475Z [DEBUG] test: Before scenario Check the "NOW ON TV" elements
+2019-05-28T13:45:52.037Z [INFO]  test: Start test: Check the "NOW ON TV" elements
+2019-05-28T13:45:54.784Z [INFO]  test: Scenario 'Check the "NOW ON TV" elements' passed!
+2019-05-28T13:45:54.936Z [DEBUG] test: Before scenario "NOW ON TV" see all button check
+2019-05-28T13:45:55.477Z [INFO]  test: Start test: "NOW ON TV" see all button check
+2019-05-28T13:46:04.361Z [INFO]  test: Scenario '"NOW ON TV" see all button check' passed!
+2019-05-28T13:46:04.564Z [DEBUG] test: Before scenario Click on one of the "NOW ON TV" cards
+2019-05-28T13:46:05.297Z [INFO]  test: Start test: Click on one of the "NOW ON TV" cards
+2019-05-28T13:46:08.474Z [INFO]  test: Scenario 'Click on one of the "NOW ON TV" cards' passed!
+2019-05-28T13:46:08.595Z [DEBUG] test: Before scenario Navigate to the "ON DEMAND" menu on the page
+2019-05-28T13:46:09.049Z [INFO]  test: Start test: Navigate to the "ON DEMAND" menu on the page
+2019-05-28T13:46:14.143Z [INFO]  test: Scenario 'Navigate to the "ON DEMAND" menu on the page' passed!
+2019-05-28T13:46:14.308Z [DEBUG] test: Before scenario go through all the "ON DEMAND" cards
+2019-05-28T13:46:14.794Z [INFO]  test: Start test: go through all the "ON DEMAND" cards
+2019-05-28T13:46:23.490Z [INFO]  test: Scenario 'go through all the "ON DEMAND" cards' passed!
+2019-05-28T13:46:23.606Z [DEBUG] test: Before scenario "ON DEMAND" see all button check
+2019-05-28T13:46:24.020Z [INFO]  test: Start test: "ON DEMAND" see all button check
+2019-05-28T13:46:33.455Z [INFO]  test: Scenario '"ON DEMAND" see all button check' passed!
+2019-05-28T13:46:33.587Z [DEBUG] test: Before scenario Click on one of the 'ON DEMAND' cards
+2019-05-28T13:46:33.957Z [INFO]  test: Start test: Click on one of the 'ON DEMAND' cards
+2019-05-28T13:46:38.604Z [INFO]  test: Scenario 'Click on one of the 'ON DEMAND' cards' failed!
+2019-05-28T13:46:38.744Z [DEBUG] test: Before scenario Navigate to the "RADIO CHANNELS" menu on the page
+2019-05-28T13:46:38.908Z [DEBUG] test: Before scenario Go through all the "RADIO CHANNEL" cards
+2019-05-28T13:46:39.134Z [DEBUG] test: Before scenario Click on one of the "RADIO CHANNELS" cards
+2019-05-29T10:34:42.952Z [INFO]  test: initialize test run...
+2019-05-29T10:35:24.587Z [INFO]  test: initialize test run...
+2019-05-29T10:35:38.818Z [DEBUG] test: Before scenario Check for basic elements
+2019-05-29T10:35:46.001Z [INFO]  test: Start test: Check for basic elements
+2019-05-29T10:35:56.956Z [INFO]  test: Scenario 'Check for basic elements' passed!
+2019-05-29T14:01:45.064Z [INFO]  test: initialize test run...
+2019-05-30T10:25:20.171Z [INFO]  test: initialize test run...
+2019-05-30T10:25:36.395Z [INFO]  test: initialize test run...
+2019-05-30T10:25:47.838Z [DEBUG] test: Before scenario Click on the carousel menu card
+2019-05-30T10:25:50.421Z [INFO]  test: Start test: Click on the carousel menu card
+2019-05-30T10:26:05.441Z [INFO]  test: Scenario 'Click on the carousel menu card' failed!
+2019-05-30T10:26:29.279Z [INFO]  test: initialize test run...
+2019-05-30T10:26:39.295Z [DEBUG] test: Before scenario Click on the carousel menu card
+2019-05-30T10:26:45.117Z [INFO]  test: Start test: Click on the carousel menu card
+2019-05-30T10:27:00.138Z [INFO]  test: Scenario 'Click on the carousel menu card' failed!
+2019-05-30T10:27:06.917Z [INFO]  test: initialize test run...
+2019-05-30T10:27:16.949Z [DEBUG] test: Before scenario Click on the carousel menu card
+2019-05-30T10:27:19.622Z [INFO]  test: Start test: Click on the carousel menu card
+2019-05-30T10:27:34.640Z [INFO]  test: Scenario 'Click on the carousel menu card' failed!
+2019-05-30T10:28:36.548Z [INFO]  test: initialize test run...
+2019-05-30T10:28:50.331Z [DEBUG] test: Before scenario Click on the carousel menu card
+2019-05-30T10:28:57.392Z [INFO]  test: Start test: Click on the carousel menu card
+2019-05-30T10:29:23.467Z [INFO]  test: Scenario 'Click on the carousel menu card' failed!
+2019-05-30T10:41:59.987Z [INFO]  test: initialize test run...
+2019-05-30T10:42:13.709Z [DEBUG] test: Before scenario Click on the carousel menu card
+2019-05-30T10:42:20.659Z [INFO]  test: Start test: Click on the carousel menu card
+2019-05-30T10:42:32.540Z [INFO]  test: Scenario 'Click on the carousel menu card' passed!
+2019-05-30T10:42:51.848Z [INFO]  test: initialize test run...
+2019-05-30T10:43:01.942Z [DEBUG] test: Before scenario Check for basic elements
+2019-05-30T10:43:08.595Z [INFO]  test: Start test: Check for basic elements
+2019-05-30T10:43:18.180Z [INFO]  test: Scenario 'Check for basic elements' passed!
+2019-05-30T10:43:18.468Z [DEBUG] test: Before scenario Navigate to the carousel menu on the home page
+2019-05-30T10:43:19.078Z [INFO]  test: Start test: Navigate to the carousel menu on the home page
+2019-05-30T10:43:27.845Z [INFO]  test: Scenario 'Navigate to the carousel menu on the home page' passed!
+2019-05-30T10:43:27.991Z [DEBUG] test: Before scenario Moving through all the carousel menu banner
+2019-05-30T10:43:28.509Z [INFO]  test: Start test: Moving through all the carousel menu banner
+2019-05-30T10:43:43.732Z [INFO]  test: Scenario 'Moving through all the carousel menu banner' passed!
+2019-05-30T10:43:43.875Z [DEBUG] test: Before scenario Click on the carousel menu card
+2019-05-30T10:43:44.402Z [INFO]  test: Start test: Click on the carousel menu card
+2019-05-30T10:44:04.726Z [INFO]  test: Scenario 'Click on the carousel menu card' failed!
+2019-05-30T10:44:04.922Z [DEBUG] test: Before scenario Navigate to the "NOW ON TV" menu on the page
+2019-05-30T10:44:05.463Z [INFO]  test: Start test: Navigate to the "NOW ON TV" menu on the page
+2019-05-30T10:44:07.061Z [INFO]  test: Scenario 'Navigate to the "NOW ON TV" menu on the page' passed!
+2019-05-30T10:44:07.240Z [DEBUG] test: Before scenario Move through the "NOW ON TV" cards
+2019-05-30T10:44:07.814Z [INFO]  test: Start test: Move through the "NOW ON TV" cards
+2019-05-30T10:44:15.477Z [INFO]  test: Scenario 'Move through the "NOW ON TV" cards' passed!
+2019-05-30T10:44:15.636Z [DEBUG] test: Before scenario Check the "NOW ON TV" elements
+2019-05-30T10:44:16.187Z [INFO]  test: Start test: Check the "NOW ON TV" elements
+2019-05-30T10:48:46.078Z [INFO]  test: initialize test run...
+2019-05-30T10:48:59.760Z [DEBUG] test: Before scenario Click on the carousel menu card
+2019-05-30T10:49:02.782Z [INFO]  test: Start test: Click on the carousel menu card
+2019-05-30T10:49:18.047Z [INFO]  test: Scenario 'Click on the carousel menu card' passed!
+2019-05-30T10:51:50.199Z [INFO]  test: initialize test run...
+2019-05-30T10:52:00.374Z [DEBUG] test: Before scenario Click on the carousel menu card
+2019-05-30T10:52:06.949Z [INFO]  test: Start test: Click on the carousel menu card
+2019-05-30T10:52:35.695Z [INFO]  test: Scenario 'Click on the carousel menu card' failed!
+2019-05-30T10:53:43.159Z [INFO]  test: Start test: Click on the carousel menu card
+2019-05-30T10:57:19.290Z [INFO]  test: Start test: Check for basic elements
+2019-05-30T10:57:31.563Z [INFO]  test: Scenario 'Check for basic elements' passed!
+2019-05-30T10:57:32.391Z [INFO]  test: Start test: Navigate to the carousel menu on the home page
+2019-05-30T10:57:40.311Z [INFO]  test: Scenario 'Navigate to the carousel menu on the home page' passed!
+2019-05-30T10:57:40.936Z [INFO]  test: Start test: Moving through all the carousel menu banner
+2019-05-30T10:57:55.960Z [INFO]  test: Scenario 'Moving through all the carousel menu banner' passed!
+2019-05-30T10:57:56.709Z [INFO]  test: Start test: Click on the carousel menu card
+2019-05-30T10:58:01.117Z [INFO]  test: Scenario 'Click on the carousel menu card' passed!
+2019-05-30T10:58:01.720Z [INFO]  test: Start test: Navigate to the "NOW ON TV" menu on the page
+2019-05-30T10:58:03.486Z [INFO]  test: Scenario 'Navigate to the "NOW ON TV" menu on the page' passed!
+2019-05-30T10:58:04.149Z [INFO]  test: Start test: Move through the "NOW ON TV" cards
+2019-05-30T10:58:11.985Z [INFO]  test: Scenario 'Move through the "NOW ON TV" cards' passed!
+2019-05-30T10:58:12.625Z [INFO]  test: Start test: Check the "NOW ON TV" elements
+2019-05-30T10:58:15.689Z [INFO]  test: Scenario 'Check the "NOW ON TV" elements' passed!
+2019-05-30T10:58:16.629Z [INFO]  test: Start test: "NOW ON TV" see all button check
+2019-05-30T10:58:25.373Z [INFO]  test: Scenario '"NOW ON TV" see all button check' passed!
+2019-05-30T10:58:26.320Z [INFO]  test: Start test: Click on one of the "NOW ON TV" cards
+2019-05-30T10:58:29.618Z [INFO]  test: Scenario 'Click on one of the "NOW ON TV" cards' passed!
+2019-05-30T10:58:30.373Z [INFO]  test: Start test: Navigate to the "ON DEMAND" menu on the page
+2019-05-30T10:58:37.559Z [INFO]  test: Scenario 'Navigate to the "ON DEMAND" menu on the page' passed!
+2019-05-30T10:58:38.279Z [INFO]  test: Start test: go through all the "ON DEMAND" cards
+2019-05-30T10:58:47.424Z [INFO]  test: Scenario 'go through all the "ON DEMAND" cards' passed!
+2019-05-30T10:58:48.241Z [INFO]  test: Start test: "ON DEMAND" see all button check
+2019-05-30T10:58:57.069Z [INFO]  test: Scenario '"ON DEMAND" see all button check' passed!
+2019-05-30T10:58:57.682Z [INFO]  test: Start test: Click on one of the 'ON DEMAND' cards
+2019-05-30T10:59:04.882Z [INFO]  test: Scenario 'Click on one of the 'ON DEMAND' cards' passed!
+2019-05-30T10:59:05.460Z [INFO]  test: Start test: Navigate to the "RADIO CHANNELS" menu on the page
+2019-05-30T10:59:14.426Z [INFO]  test: Scenario 'Navigate to the "RADIO CHANNELS" menu on the page' passed!
+2019-05-30T10:59:15.185Z [INFO]  test: Start test: Go through all the "RADIO CHANNEL" cards
+2019-05-30T10:59:26.907Z [INFO]  test: Scenario 'Go through all the "RADIO CHANNEL" cards' passed!
+2019-05-30T10:59:27.632Z [INFO]  test: Start test: Click on one of the "RADIO CHANNELS" cards
+2019-05-30T10:59:37.703Z [INFO]  test: Scenario 'Click on one of the "RADIO CHANNELS" cards' passed!
+2019-06-06T09:10:39.966Z [INFO]  test: initialize test run...
+2019-06-06T09:11:07.962Z [INFO]  test: Start test: Check for basic elements
+2019-06-06T09:11:18.312Z [INFO]  test: Scenario 'Check for basic elements' passed!
+2019-06-06T09:11:19.443Z [INFO]  test: Start test: Navigate to the carousel menu on the home page
+2019-06-06T09:11:26.450Z [INFO]  test: Scenario 'Navigate to the carousel menu on the home page' passed!
+2019-06-06T09:11:27.229Z [INFO]  test: Start test: Moving through all the carousel menu banner
+2019-06-06T09:11:38.676Z [INFO]  test: Scenario 'Moving through all the carousel menu banner' passed!
+2019-06-06T09:11:39.549Z [INFO]  test: Start test: Click on the carousel menu card
+2019-06-06T09:11:57.490Z [INFO]  test: Scenario 'Click on the carousel menu card' failed!
+2019-06-06T09:11:58.323Z [INFO]  test: Start test: Navigate to the "NOW ON TV" menu on the page
+2019-06-06T09:12:00.536Z [INFO]  test: Scenario 'Navigate to the "NOW ON TV" menu on the page' passed!
+2019-06-06T09:12:01.192Z [INFO]  test: Start test: Move through the "NOW ON TV" cards
+2019-06-06T09:12:09.236Z [INFO]  test: Scenario 'Move through the "NOW ON TV" cards' passed!
+2019-06-06T09:12:10.043Z [INFO]  test: Start test: Check the "NOW ON TV" elements
+2019-06-06T09:12:12.684Z [INFO]  test: Scenario 'Check the "NOW ON TV" elements' passed!
+2019-06-06T09:12:13.393Z [INFO]  test: Start test: "NOW ON TV" see all button check
+2019-06-06T09:12:22.056Z [INFO]  test: Scenario '"NOW ON TV" see all button check' passed!
+2019-06-06T09:12:22.720Z [INFO]  test: Start test: Click on one of the "NOW ON TV" cards
+2019-06-06T09:12:25.556Z [INFO]  test: Scenario 'Click on one of the "NOW ON TV" cards' failed!
+2019-06-06T09:12:26.152Z [INFO]  test: Start test: Navigate to the "ON DEMAND" menu on the page
+2019-06-06T09:12:32.101Z [INFO]  test: Scenario 'Navigate to the "ON DEMAND" menu on the page' passed!
+2019-06-06T09:12:32.803Z [INFO]  test: Start test: go through all the "ON DEMAND" cards
+2019-06-06T09:12:40.851Z [INFO]  test: Scenario 'go through all the "ON DEMAND" cards' passed!
+2019-06-06T09:12:41.579Z [INFO]  test: Start test: "ON DEMAND" see all button check
+2019-06-06T09:12:51.123Z [INFO]  test: Scenario '"ON DEMAND" see all button check' passed!
+2019-06-06T09:12:53.310Z [INFO]  test: Start test: Click on one of the 'ON DEMAND' cards
+2019-06-06T09:12:58.270Z [INFO]  test: Scenario 'Click on one of the 'ON DEMAND' cards' passed!
+2019-06-06T09:12:58.946Z [INFO]  test: Start test: Navigate to the "RADIO CHANNELS" menu on the page
+2019-06-06T09:13:07.113Z [INFO]  test: Scenario 'Navigate to the "RADIO CHANNELS" menu on the page' passed!
+2019-06-06T09:13:07.756Z [INFO]  test: Start test: Go through all the "RADIO CHANNEL" cards
+2019-06-06T09:13:20.134Z [INFO]  test: Scenario 'Go through all the "RADIO CHANNEL" cards' passed!
+2019-06-06T09:13:20.955Z [INFO]  test: Start test: Click on one of the "RADIO CHANNELS" cards
+2019-06-06T09:13:31.369Z [INFO]  test: Scenario 'Click on one of the "RADIO CHANNELS" cards' passed!
+2019-06-06T09:24:09.295Z [INFO]  test: initialize test run...
+2019-06-06T09:24:24.438Z [INFO]  test: Start test: Click on one of the "NOW ON TV" cards
+2019-06-06T09:24:50.400Z [INFO]  test: Scenario 'Click on one of the "NOW ON TV" cards' failed!
+2019-06-06T09:25:05.895Z [INFO]  test: initialize test run...
+2019-06-06T09:25:19.986Z [INFO]  test: Start test: Click on one of the "NOW ON TV" cards
+2019-06-06T09:25:44.884Z [INFO]  test: Scenario 'Click on one of the "NOW ON TV" cards' failed!
+2019-06-06T09:32:43.044Z [INFO]  test: initialize test run...
+2019-06-06T09:32:56.421Z [INFO]  test: Start test: Start the application
+2019-06-06T09:33:10.618Z [INFO]  test: Scenario 'Start the application' passed!
+2019-06-06T09:33:11.459Z [INFO]  test: Start test: Navigate to the side menu button "Home"
+2019-06-06T09:33:24.406Z [INFO]  test: Scenario 'Navigate to the side menu button "Home"' failed!
+2019-06-06T09:33:25.003Z [INFO]  test: Start test: Navigate to the side menu button "Home" using the right key code
+2019-06-06T09:33:28.545Z [INFO]  test: Scenario 'Navigate to the side menu button "Home" using the right key code' passed!
+2019-06-06T09:33:29.465Z [INFO]  test: Start test: Navigate to side menu button "Channels"
+2019-06-06T09:33:36.425Z [INFO]  test: Scenario 'Navigate to side menu button "Channels"' passed!
+2019-06-06T09:33:37.064Z [INFO]  test: Start test: Navigate to side menu button "Channels" using the right key code
+2019-06-06T09:33:43.816Z [INFO]  test: Scenario 'Navigate to side menu button "Channels" using the right key code' passed!
+2019-06-06T09:33:44.417Z [INFO]  test: Start test: Navigate to side menu button "On Demand"
+2019-06-06T09:33:50.490Z [INFO]  test: Scenario 'Navigate to side menu button "On Demand"' passed!
+2019-06-06T09:33:51.266Z [INFO]  test: Start test: Navigate to side menu button "On Demand" using the right key code
+2019-06-06T09:33:55.971Z [INFO]  test: Scenario 'Navigate to side menu button "On Demand" using the right key code' passed!
+2019-06-06T09:33:56.775Z [INFO]  test: Start test: Navigate to side menu button "My Library"
+2019-06-06T09:34:06.549Z [INFO]  test: Scenario 'Navigate to side menu button "My Library"' passed!
+2019-06-06T09:34:07.212Z [INFO]  test: Start test: Navigate to side menu button "My Library" using the right key code
+2019-06-06T09:34:15.947Z [INFO]  test: Scenario 'Navigate to side menu button "My Library" using the right key code' passed!
+2019-06-06T09:34:16.898Z [INFO]  test: Start test: Navigate to side menu button "Settings"
+2019-06-06T09:34:21.634Z [INFO]  test: Scenario 'Navigate to side menu button "Settings"' passed!
+2019-06-06T09:34:22.430Z [INFO]  test: Start test: Navigate to side menu button "Settings" using the right key code
+2019-06-06T09:34:27.371Z [INFO]  test: Scenario 'Navigate to side menu button "Settings" using the right key code' passed!
+2019-06-06T09:34:28.167Z [INFO]  test: Start test: Navigate to side menu button "Watch"
+2019-06-06T09:34:34.547Z [INFO]  test: Scenario 'Navigate to side menu button "Watch"' passed!
+2019-06-06T09:34:36.936Z [INFO]  test: Start test: Navigate to the player from the main menu
+2019-06-06T09:34:38.430Z [INFO]  test: Scenario 'Navigate to the player from the main menu' passed!
+2019-06-06T09:34:39.389Z [INFO]  test: Start test: Check for clock
+2019-06-06T09:34:41.431Z [INFO]  test: Scenario 'Check for clock' passed!
+2019-06-06T09:34:42.557Z [INFO]  test: Start test: Press the back button while on the main menu
+2019-06-06T09:34:44.104Z [INFO]  test: Scenario 'Press the back button while on the main menu' passed!
+2019-06-06T09:35:50.336Z [INFO]  test: initialize test run...
+2019-06-06T09:36:06.954Z [INFO]  test: Start test: Navigate to the side menu button "Home"
+2019-06-06T09:36:29.789Z [INFO]  test: Scenario 'Navigate to the side menu button "Home"' failed!
+2019-06-06T09:37:57.851Z [INFO]  test: initialize test run...
+2019-06-06T09:38:21.040Z [INFO]  test: Start test: Navigate to the side menu button "Home"
+2019-06-06T09:38:34.404Z [INFO]  test: Scenario 'Navigate to the side menu button "Home"' passed!
+2019-06-06T09:40:20.611Z [INFO]  test: initialize test run...
+2019-06-06T09:40:36.613Z [INFO]  test: Start test: Start the application
+2019-06-06T09:40:49.596Z [INFO]  test: Scenario 'Start the application' passed!
+2019-06-06T09:40:50.618Z [INFO]  test: Start test: Navigate to the side menu button "Home"
+2019-06-06T09:40:55.477Z [INFO]  test: Scenario 'Navigate to the side menu button "Home"' passed!
+2019-06-06T09:40:56.241Z [INFO]  test: Start test: Navigate to the side menu button "Home" using the right key code
+2019-06-06T09:40:59.922Z [INFO]  test: Scenario 'Navigate to the side menu button "Home" using the right key code' passed!
+2019-06-06T09:41:00.528Z [INFO]  test: Start test: Navigate to side menu button "Channels"
+2019-06-06T09:41:08.037Z [INFO]  test: Scenario 'Navigate to side menu button "Channels"' passed!
+2019-06-06T09:41:08.676Z [INFO]  test: Start test: Navigate to side menu button "Channels" using the right key code
+2019-06-06T09:41:14.761Z [INFO]  test: Scenario 'Navigate to side menu button "Channels" using the right key code' passed!
+2019-06-06T09:41:15.468Z [INFO]  test: Start test: Navigate to side menu button "On Demand"
+2019-06-06T09:41:21.754Z [INFO]  test: Scenario 'Navigate to side menu button "On Demand"' passed!
+2019-06-06T09:41:22.465Z [INFO]  test: Start test: Navigate to side menu button "On Demand" using the right key code
+2019-06-06T09:41:27.429Z [INFO]  test: Scenario 'Navigate to side menu button "On Demand" using the right key code' passed!
+2019-06-06T09:41:28.244Z [INFO]  test: Start test: Navigate to side menu button "My Library"
+2019-06-06T09:41:37.830Z [INFO]  test: Scenario 'Navigate to side menu button "My Library"' passed!
+2019-06-06T09:41:38.400Z [INFO]  test: Start test: Navigate to side menu button "My Library" using the right key code
+2019-06-06T09:41:47.141Z [INFO]  test: Scenario 'Navigate to side menu button "My Library" using the right key code' passed!
+2019-06-06T09:41:47.785Z [INFO]  test: Start test: Navigate to side menu button "Settings"
+2019-06-06T09:41:52.870Z [INFO]  test: Scenario 'Navigate to side menu button "Settings"' passed!
+2019-06-06T09:41:53.583Z [INFO]  test: Start test: Navigate to side menu button "Settings" using the right key code
+2019-06-06T09:41:58.596Z [INFO]  test: Scenario 'Navigate to side menu button "Settings" using the right key code' passed!
+2019-06-06T09:41:59.200Z [INFO]  test: Start test: Navigate to side menu button "Watch"
+2019-06-06T09:42:04.914Z [INFO]  test: Scenario 'Navigate to side menu button "Watch"' passed!
+2019-06-06T09:42:05.523Z [INFO]  test: Start test: Navigate to the player from the main menu
+2019-06-06T09:42:07.190Z [INFO]  test: Scenario 'Navigate to the player from the main menu' passed!
+2019-06-06T09:42:08.066Z [INFO]  test: Start test: Check for clock
+2019-06-06T09:42:08.836Z [INFO]  test: Scenario 'Check for clock' passed!
+2019-06-06T09:42:09.353Z [INFO]  test: Start test: Press the back button while on the main menu
+2019-06-06T09:42:10.823Z [INFO]  test: Scenario 'Press the back button while on the main menu' passed!
+2019-06-06T09:43:01.648Z [INFO]  test: initialize test run...
+2019-06-06T09:43:17.785Z [INFO]  test: Start test: Navigate to the "ALL TV" filter
+2019-06-06T09:43:33.114Z [INFO]  test: Scenario 'Navigate to the "ALL TV" filter' passed!
+2019-06-06T09:43:34.316Z [INFO]  test: Start test: Navigate to the  "Kids" filter
+2019-06-06T09:43:43.075Z [INFO]  test: Scenario 'Navigate to the  "Kids" filter' passed!
+2019-06-06T09:43:43.739Z [INFO]  test: Start test: Navigate to the  "Sports" filter
+2019-06-06T09:43:52.355Z [INFO]  test: Scenario 'Navigate to the  "Sports" filter' passed!
+2019-06-06T09:43:52.993Z [INFO]  test: Start test: Navigate to the "HD" filter
+2019-06-06T09:44:03.080Z [INFO]  test: Scenario 'Navigate to the "HD" filter' passed!
+2019-06-06T09:44:04.160Z [INFO]  test: Start test: Navigate to the "Music" filter
+2019-06-06T09:44:14.120Z [INFO]  test: Scenario 'Navigate to the "Music" filter' passed!
+2019-06-06T09:44:14.701Z [INFO]  test: Start test: Navigate to the "informative" filter
+2019-06-06T09:44:25.557Z [INFO]  test: Scenario 'Navigate to the "informative" filter' passed!
+2019-06-06T09:44:26.282Z [INFO]  test: Start test: Navigate to the "Movies" filter
+2019-06-06T09:44:37.983Z [INFO]  test: Scenario 'Navigate to the "Movies" filter' passed!
+2019-06-06T09:44:38.733Z [INFO]  test: Start test: Navigate to the "Entertainment" filter
+2019-06-06T09:44:52.105Z [INFO]  test: Scenario 'Navigate to the "Entertainment" filter' passed!
+2019-06-06T09:44:53.269Z [INFO]  test: Start test: Navigate to the "Documentary" filter
+2019-06-06T09:45:06.167Z [INFO]  test: Scenario 'Navigate to the "Documentary" filter' passed!
+2019-06-06T09:45:06.821Z [INFO]  test: Start test: Navigate to the "Local TV" filter
+2019-06-06T09:45:19.917Z [INFO]  test: Scenario 'Navigate to the "Local TV" filter' passed!
+2019-06-06T09:45:20.742Z [INFO]  test: Start test: Navigate to the "Regional TV" filter
+2019-06-06T09:45:35.424Z [INFO]  test: Scenario 'Navigate to the "Regional TV" filter' passed!
+2019-06-06T09:45:36.058Z [INFO]  test: Start test: Navigate to the "International TV" filter
+2019-06-06T09:45:50.510Z [INFO]  test: Scenario 'Navigate to the "International TV" filter' passed!
+2019-06-06T09:45:51.202Z [INFO]  test: Start test: Navigate to the "Adult" filter
+2019-06-06T09:46:15.046Z [INFO]  test: Scenario 'Navigate to the "Adult" filter' passed!
+2019-06-06T10:49:45.762Z [INFO]  test: initialize test run...
+2019-06-06T10:50:10.413Z [INFO]  test: Start test: Navigate to the "Now" filter
+2019-06-06T10:50:22.907Z [INFO]  test: Scenario 'Navigate to the "Now" filter' passed!
+2019-06-06T10:50:24.530Z [INFO]  test: Start test: Click on the "Now" filter
+2019-06-06T10:50:43.867Z [INFO]  test: Scenario 'Click on the "Now" filter' passed!
+2019-06-06T10:50:44.896Z [INFO]  test: Start test: Click on the "Previous" filter
+2019-06-06T10:51:00.296Z [INFO]  test: Scenario 'Click on the "Previous" filter' passed!
+2019-06-06T10:51:01.034Z [INFO]  test: Start test: Click on the "Next" filter
+2019-06-06T10:51:29.675Z [INFO]  test: Scenario 'Click on the "Next" filter' passed!
+2019-06-06T10:51:30.600Z [INFO]  test: Start test: Scroll a through a few cards
+2019-06-06T10:51:54.726Z [INFO]  test: Scenario 'Scroll a through a few cards' passed!
+2019-06-06T10:51:55.412Z [INFO]  test: Start test: Open selected card
+2019-06-06T10:52:11.095Z [INFO]  test: Scenario 'Open selected card' passed!
+2019-06-06T10:52:12.054Z [INFO]  test: Start test: Open the search form now on tv page
+2019-06-06T10:52:18.779Z [INFO]  test: Scenario 'Open the search form now on tv page' passed!
+2019-06-06T10:52:19.438Z [INFO]  test: Start test: Check image on a card
+2019-06-06T10:52:34.941Z [INFO]  test: Scenario 'Check image on a card' passed!
+2019-06-06T10:57:40.944Z [INFO]  test: initialize test run...
+2019-06-06T10:57:58.317Z [INFO]  test: Start test: Scroll through and check for text and if background is highlighted
+2019-06-06T10:58:27.120Z [INFO]  test: Scenario 'Scroll through and check for text and if background is highlighted' failed!
+2019-06-06T10:59:08.981Z [INFO]  test: initialize test run...
+2019-06-06T10:59:23.264Z [INFO]  test: Start test: Scroll through and check for text and if background is highlighted
+2019-06-06T10:59:43.332Z [INFO]  test: Scenario 'Scroll through and check for text and if background is highlighted' passed!
+2019-06-06T11:00:21.094Z [INFO]  test: initialize test run...
+2019-06-06T11:00:37.485Z [INFO]  test: Start test: Scroll through and check for text and if background is highlighted
+2019-06-06T11:00:53.910Z [INFO]  test: Scenario 'Scroll through and check for text and if background is highlighted' passed!
+2019-06-06T11:03:31.548Z [INFO]  test: initialize test run...
+2019-06-06T11:03:46.824Z [INFO]  test: Start test: Open lists filter
+2019-06-06T11:04:01.114Z [INFO]  test: Scenario 'Open lists filter' passed!
+2019-06-06T11:04:02.000Z [INFO]  test: Start test: Open filter first option Stingray
+2019-06-06T11:04:17.325Z [INFO]  test: Scenario 'Open filter first option Stingray' passed!
+2019-06-06T11:04:18.093Z [INFO]  test: Start test: Open filter second option POP
+2019-06-06T11:04:33.473Z [INFO]  test: Scenario 'Open filter second option POP' passed!
+2019-06-06T11:04:34.155Z [INFO]  test: Start test: Open filter third option Local POP
+2019-06-06T11:04:50.352Z [INFO]  test: Scenario 'Open filter third option Local POP' passed!
+2019-06-06T11:05:15.748Z [INFO]  test: initialize test run...
+2019-06-06T11:05:31.832Z [INFO]  test: Start test: Open the second filter
+2019-06-06T11:05:48.365Z [INFO]  test: Scenario 'Open the second filter' passed!
+2019-06-06T11:05:49.503Z [INFO]  test: Start test: Open first filter option Recomended
+2019-06-06T11:06:05.794Z [INFO]  test: Scenario 'Open first filter option Recomended' passed!
+2019-06-06T11:06:06.490Z [INFO]  test: Start test: Open the second filter option Position
+2019-06-06T11:06:23.678Z [INFO]  test: Scenario 'Open the second filter option Position' passed!
+2019-06-06T11:06:24.379Z [INFO]  test: Start test: Open the third filter option A-Z
+2019-06-06T11:06:41.282Z [INFO]  test: Scenario 'Open the third filter option A-Z' passed!
+2019-06-06T11:07:28.332Z [INFO]  test: initialize test run...
+2019-06-06T11:07:44.420Z [INFO]  test: Start test: Navigate to the "Sort" filter
+2019-06-06T11:07:58.768Z [INFO]  test: Scenario 'Navigate to the "Sort" filter' passed!
+2019-06-06T11:07:59.700Z [INFO]  test: Start test: Click on "A-Z" filter option
+2019-06-06T11:08:08.356Z [INFO]  test: Scenario 'Click on "A-Z" filter option' failed!
+2019-06-06T11:08:09.131Z [INFO]  test: Start test: Click on "Position" filter option
+2019-06-06T11:08:18.083Z [INFO]  test: Scenario 'Click on "Position" filter option' failed!
+2019-06-06T11:08:18.839Z [INFO]  test: Start test: Click on Recommended filter option
+2019-06-06T11:08:36.561Z [INFO]  test: Scenario 'Click on Recommended filter option' passed!
+2019-06-06T11:11:37.805Z [INFO]  test: initialize test run...
+2019-06-06T11:12:02.564Z [INFO]  test: Start test: Navigate to the "Sort" filter
+2019-06-06T11:12:17.954Z [INFO]  test: Scenario 'Navigate to the "Sort" filter' passed!
+2019-06-06T11:12:19.117Z [INFO]  test: Start test: Click on "A-Z" filter option
+2019-06-06T11:12:27.024Z [INFO]  test: Scenario 'Click on "A-Z" filter option' failed!
+2019-06-06T11:12:27.653Z [INFO]  test: Start test: Click on "Position" filter option
+2019-06-06T11:12:36.752Z [INFO]  test: Scenario 'Click on "Position" filter option' failed!
+2019-06-06T11:12:37.350Z [INFO]  test: Start test: Click on Recommended filter option
+2019-06-06T11:12:55.409Z [INFO]  test: Scenario 'Click on Recommended filter option' passed!
+2019-06-06T11:14:32.994Z [INFO]  test: initialize test run...
+2019-06-06T11:14:48.668Z [INFO]  test: Start test: Navigate to the "Sort" filter
+2019-06-06T11:15:03.494Z [INFO]  test: Scenario 'Navigate to the "Sort" filter' passed!
+2019-06-06T11:15:04.375Z [INFO]  test: Start test: Click on "A-Z" filter option
+2019-06-06T11:15:13.390Z [INFO]  test: Scenario 'Click on "A-Z" filter option' failed!
+2019-06-06T11:15:14.108Z [INFO]  test: Start test: Click on "Position" filter option
+2019-06-06T11:15:22.633Z [INFO]  test: Scenario 'Click on "Position" filter option' failed!
+2019-06-06T11:15:23.377Z [INFO]  test: Start test: Click on Recommended filter option
+2019-06-06T11:15:40.725Z [INFO]  test: Scenario 'Click on Recommended filter option' passed!
+2019-06-06T11:17:39.069Z [INFO]  test: initialize test run...
+2019-06-06T11:17:55.217Z [INFO]  test: Start test: Navigate to the "Sort" filter
+2019-06-06T11:18:10.096Z [INFO]  test: Scenario 'Navigate to the "Sort" filter' passed!
+2019-06-06T11:18:10.907Z [INFO]  test: Start test: Click on "A-Z" filter option
+2019-06-06T11:18:20.512Z [INFO]  test: Scenario 'Click on "A-Z" filter option' failed!
+2019-06-06T11:18:21.123Z [INFO]  test: Start test: Click on "Position" filter option
+2019-06-06T11:18:29.632Z [INFO]  test: Scenario 'Click on "Position" filter option' failed!
+2019-06-06T11:18:30.293Z [INFO]  test: Start test: Click on Recommended filter option
+2019-06-06T11:18:47.442Z [INFO]  test: Scenario 'Click on Recommended filter option' passed!
+2019-06-06T11:20:01.942Z [INFO]  test: initialize test run...
+2019-06-06T11:20:16.974Z [INFO]  test: Start test: Navigate to the "Sort" filter
+2019-06-06T11:20:32.733Z [INFO]  test: Scenario 'Navigate to the "Sort" filter' passed!
+2019-06-06T11:20:33.873Z [INFO]  test: Start test: Click on "A-Z" filter option
+2019-06-06T11:20:44.190Z [INFO]  test: Scenario 'Click on "A-Z" filter option' failed!
+2019-06-06T11:20:44.789Z [INFO]  test: Start test: Click on "Position" filter option
+2019-06-06T11:20:53.887Z [INFO]  test: Scenario 'Click on "Position" filter option' failed!
+2019-06-06T11:20:54.538Z [INFO]  test: Start test: Click on Recommended filter option
+2019-06-06T11:21:12.406Z [INFO]  test: Scenario 'Click on Recommended filter option' passed!
+2019-06-06T11:21:43.138Z [INFO]  test: initialize test run...
+2019-06-06T11:21:59.206Z [INFO]  test: Start test: Navigate to the "Sort" filter
+2019-06-06T11:22:13.214Z [INFO]  test: Scenario 'Navigate to the "Sort" filter' passed!
+2019-06-06T11:22:14.180Z [INFO]  test: Start test: Click on "A-Z" filter option
+2019-06-06T11:22:24.619Z [INFO]  test: Scenario 'Click on "A-Z" filter option' failed!
+2019-06-06T11:22:25.288Z [INFO]  test: Start test: Click on "Position" filter option
+2019-06-06T11:22:34.370Z [INFO]  test: Scenario 'Click on "Position" filter option' failed!
+2019-06-06T11:22:34.958Z [INFO]  test: Start test: Click on Recommended filter option
+2019-06-06T11:22:52.311Z [INFO]  test: Scenario 'Click on Recommended filter option' passed!
+2019-06-06T11:33:08.663Z [INFO]  test: initialize test run...
+2019-06-06T11:33:24.528Z [INFO]  test: Start test: Navigate to the "Sort" filter
+2019-06-06T11:33:40.398Z [INFO]  test: Scenario 'Navigate to the "Sort" filter' passed!
+2019-06-06T11:33:41.233Z [INFO]  test: Start test: Click on "A-Z" filter option
+2019-06-06T11:33:51.257Z [INFO]  test: Scenario 'Click on "A-Z" filter option' failed!
+2019-06-06T11:33:52.025Z [INFO]  test: Start test: Click on "Position" filter option
+2019-06-06T11:34:01.520Z [INFO]  test: Scenario 'Click on "Position" filter option' failed!
+2019-06-06T11:34:02.124Z [INFO]  test: Start test: Click on Recommended filter option
+2019-06-06T11:34:19.368Z [INFO]  test: Scenario 'Click on Recommended filter option' passed!
+2019-06-06T11:34:46.179Z [INFO]  test: initialize test run...
+2019-06-06T11:35:01.708Z [INFO]  test: Start test: Click on "A-Z" filter option
+2019-06-06T11:35:19.615Z [INFO]  test: Scenario 'Click on "A-Z" filter option' failed!
+2019-06-06T11:35:27.674Z [INFO]  test: initialize test run...
+2019-06-06T11:35:43.337Z [INFO]  test: Start test: Click on "A-Z" filter option
+2019-06-06T11:36:01.485Z [INFO]  test: Scenario 'Click on "A-Z" filter option' failed!
+2019-06-06T11:36:13.193Z [INFO]  test: initialize test run...
+2019-06-06T11:36:28.809Z [INFO]  test: Start test: Click on "A-Z" filter option
+2019-06-06T11:36:45.584Z [INFO]  test: Scenario 'Click on "A-Z" filter option' passed!
+2019-06-06T11:37:05.242Z [INFO]  test: initialize test run...
+2019-06-06T11:37:20.853Z [INFO]  test: Start test: Navigate to the "Sort" filter
+2019-06-06T11:37:36.950Z [INFO]  test: Scenario 'Navigate to the "Sort" filter' passed!
+2019-06-06T11:37:38.201Z [INFO]  test: Start test: Click on "A-Z" filter option
+2019-06-06T11:37:47.220Z [INFO]  test: Scenario 'Click on "A-Z" filter option' passed!
+2019-06-06T11:37:48.001Z [INFO]  test: Start test: Click on "Position" filter option
+2019-06-06T11:37:56.960Z [INFO]  test: Scenario 'Click on "Position" filter option' passed!
+2019-06-06T11:37:57.789Z [INFO]  test: Start test: Click on Recommended filter option
+2019-06-06T11:38:15.080Z [INFO]  test: Scenario 'Click on Recommended filter option' passed!
+2019-06-06T11:39:16.390Z [INFO]  test: initialize test run...
+2019-06-06T11:39:32.822Z [INFO]  test: Start test: Enter now on Tv sub menu with OK key code
+2019-06-06T11:39:54.245Z [INFO]  test: Scenario 'Enter now on Tv sub menu with OK key code' passed!
+2019-06-06T11:39:55.416Z [INFO]  test: Start test: Enter channels sub menu with OK key code
+2019-06-06T11:40:07.126Z [INFO]  test: Scenario 'Enter channels sub menu with OK key code' passed!
+2019-06-06T11:40:07.693Z [INFO]  test: Start test: Enter radio channels sub menu with OK key code
+2019-06-06T11:40:20.541Z [INFO]  test: Scenario 'Enter radio channels sub menu with OK key code' passed!
+2019-06-06T11:40:45.371Z [INFO]  test: initialize test run...
+2019-06-06T11:41:01.316Z [INFO]  test: Start test: Detail screen
+2019-06-06T11:41:15.434Z [INFO]  test: Scenario 'Detail screen' passed!
+2019-06-06T11:41:16.398Z [INFO]  test: Start test: Detail screen WATCH button
+2019-06-06T11:41:23.503Z [INFO]  test: Scenario 'Detail screen WATCH button' passed!
+2019-06-06T11:41:24.168Z [INFO]  test: Start test: Detail screen START OVER button
+2019-06-06T11:41:32.695Z [INFO]  test: Scenario 'Detail screen START OVER button' passed!
+2019-06-06T11:41:33.526Z [INFO]  test: Start test: Detail screen FAVORITES button
+2019-06-06T11:41:42.173Z [INFO]  test: Scenario 'Detail screen FAVORITES button' passed!
+2019-06-06T11:41:42.840Z [INFO]  test: Start test: Detail screen SEE FULL button
+2019-06-06T11:41:50.782Z [INFO]  test: Scenario 'Detail screen SEE FULL button' passed!
+2019-06-06T11:41:51.402Z [INFO]  test: Start test: Play live event
+2019-06-06T11:41:57.531Z [INFO]  test: Scenario 'Play live event' passed!
+2019-06-06T11:41:58.299Z [INFO]  test: Start test: Play live event from catchup
+2019-06-06T11:42:10.304Z [INFO]  test: Scenario 'Play live event from catchup' passed!
+2019-06-06T11:42:10.841Z [INFO]  test: Start test: Start over live event
+2019-06-06T11:42:20.898Z [INFO]  test: Scenario 'Start over live event' passed!
+2019-06-06T11:42:21.716Z [INFO]  test: Start test: Play event from the past
+2019-06-06T11:42:31.009Z [INFO]  test: Scenario 'Play event from the past' passed!
+2019-06-06T11:42:31.553Z [INFO]  test: Start test: Set favorite event
+2019-06-06T11:42:46.193Z [INFO]  test: Scenario 'Set favorite event' passed!
+2019-06-06T11:42:46.748Z [INFO]  test: Start test: Check all columns
+2019-06-06T11:42:49.422Z [INFO]  test: Scenario 'Check all columns' passed!
+2019-06-06T11:42:49.964Z [INFO]  test: Start test: Check channel picture
+2019-06-06T11:42:53.540Z [INFO]  test: Scenario 'Check channel picture' passed!
+2019-06-06T11:42:54.323Z [INFO]  test: Start test: Check 3rd columns 7 days in the past and 3 days in the future
+2019-06-06T11:43:12.665Z [INFO]  test: Scenario 'Check 3rd columns 7 days in the past and 3 days in the future' passed!
+2019-06-06T11:43:13.631Z [INFO]  test: Start test: Check guide arrow
+2019-06-06T11:43:18.162Z [INFO]  test: Scenario 'Check guide arrow' passed!
+2019-06-06T11:43:18.724Z [INFO]  test: Start test: Play live event when past or future event is selected
+2019-06-06T11:43:27.084Z [INFO]  test: Scenario 'Play live event when past or future event is selected' passed!
+2019-06-06T11:43:55.217Z [INFO]  test: initialize test run...
+2019-06-06T11:44:11.272Z [INFO]  test: Start test: Navigate to the "ALL TV" filter
+2019-06-06T11:44:25.195Z [INFO]  test: Scenario 'Navigate to the "ALL TV" filter' passed!
+2019-06-06T11:44:25.917Z [INFO]  test: Start test: Navigate to the  "Kids" filter
+2019-06-06T11:44:34.872Z [INFO]  test: Scenario 'Navigate to the  "Kids" filter' passed!
+2019-06-06T11:44:35.558Z [INFO]  test: Start test: Navigate to the  "Sports" filter
+2019-06-06T11:44:44.409Z [INFO]  test: Scenario 'Navigate to the  "Sports" filter' passed!
+2019-06-06T11:44:45.072Z [INFO]  test: Start test: Navigate to the "HD" filter
+2019-06-06T11:44:54.076Z [INFO]  test: Scenario 'Navigate to the "HD" filter' passed!
+2019-06-06T11:44:54.742Z [INFO]  test: Start test: Navigate to the "Music" filter
+2019-06-06T11:45:05.194Z [INFO]  test: Scenario 'Navigate to the "Music" filter' passed!
+2019-06-06T11:45:05.780Z [INFO]  test: Start test: Navigate to the "informative" filter
+2019-06-06T11:45:17.575Z [INFO]  test: Scenario 'Navigate to the "informative" filter' passed!
+2019-06-06T11:45:18.185Z [INFO]  test: Start test: Navigate to the "Movies" filter
+2019-06-06T11:45:30.239Z [INFO]  test: Scenario 'Navigate to the "Movies" filter' passed!
+2019-06-06T11:45:30.920Z [INFO]  test: Start test: Navigate to the "Entertainment" filter
+2019-06-06T11:45:43.257Z [INFO]  test: Scenario 'Navigate to the "Entertainment" filter' passed!
+2019-06-06T11:45:43.920Z [INFO]  test: Start test: Navigate to the "Documentary" filter
+2019-06-06T11:45:56.898Z [INFO]  test: Scenario 'Navigate to the "Documentary" filter' passed!
+2019-06-06T11:45:57.523Z [INFO]  test: Start test: Navigate to the "Local TV" filter
+2019-06-06T11:46:11.608Z [INFO]  test: Scenario 'Navigate to the "Local TV" filter' passed!
+2019-06-06T11:46:12.242Z [INFO]  test: Start test: Navigate to the "Regional TV" filter
+2019-06-06T11:46:26.670Z [INFO]  test: Scenario 'Navigate to the "Regional TV" filter' passed!
+2019-06-06T11:46:27.321Z [INFO]  test: Start test: Navigate to the "International TV" filter
+2019-06-06T11:46:42.270Z [INFO]  test: Scenario 'Navigate to the "International TV" filter' passed!
+2019-06-06T11:46:42.917Z [INFO]  test: Start test: Navigate to the "Adult" filter
+2019-06-06T11:47:06.295Z [INFO]  test: Scenario 'Navigate to the "Adult" filter' passed!
+2019-06-06T11:47:07.001Z [INFO]  test: Start test: Navigate to the "Now" filter
+2019-06-06T11:47:12.935Z [INFO]  test: Scenario 'Navigate to the "Now" filter' passed!
+2019-06-06T11:47:13.705Z [INFO]  test: Start test: Click on the "Now" filter
+2019-06-06T11:47:27.368Z [INFO]  test: Scenario 'Click on the "Now" filter' passed!
+2019-06-06T11:47:27.925Z [INFO]  test: Start test: Click on the "Previous" filter
+2019-06-06T11:47:41.055Z [INFO]  test: Scenario 'Click on the "Previous" filter' passed!
+2019-06-06T11:47:41.789Z [INFO]  test: Start test: Click on the "Next" filter
+2019-06-06T11:48:09.131Z [INFO]  test: Scenario 'Click on the "Next" filter' passed!
+2019-06-06T11:48:09.825Z [INFO]  test: Start test: Scroll a through a few cards
+2019-06-06T11:48:34.210Z [INFO]  test: Scenario 'Scroll a through a few cards' passed!
+2019-06-06T11:48:34.939Z [INFO]  test: Start test: Open selected card
+2019-06-06T11:48:49.306Z [INFO]  test: Scenario 'Open selected card' passed!
+2019-06-06T11:48:49.904Z [INFO]  test: Start test: Open the search form now on tv page
+2019-06-06T11:48:55.669Z [INFO]  test: Scenario 'Open the search form now on tv page' passed!
+2019-06-06T11:48:56.327Z [INFO]  test: Start test: Check image on a card
+2019-06-06T11:49:11.595Z [INFO]  test: Scenario 'Check image on a card' passed!
+2019-06-06T11:49:12.215Z [INFO]  test: Start test: Scroll through and check for text and if background is highlighted
+2019-06-06T11:49:22.707Z [INFO]  test: Scenario 'Scroll through and check for text and if background is highlighted' passed!
+2019-06-06T11:49:23.438Z [INFO]  test: Start test: Open the second filter
+2019-06-06T11:49:31.473Z [INFO]  test: Scenario 'Open the second filter' passed!
+2019-06-06T11:49:32.340Z [INFO]  test: Start test: Open first filter option Recomended
+2019-06-06T11:49:47.969Z [INFO]  test: Scenario 'Open first filter option Recomended' passed!
+2019-06-06T11:49:48.650Z [INFO]  test: Start test: Open the second filter option Position
+2019-06-06T11:50:05.102Z [INFO]  test: Scenario 'Open the second filter option Position' passed!
+2019-06-06T11:50:05.787Z [INFO]  test: Start test: Open the third filter option A-Z
+2019-06-06T11:50:22.693Z [INFO]  test: Scenario 'Open the third filter option A-Z' passed!
+2019-06-06T11:50:23.448Z [INFO]  test: Start test: Open lists filter
+2019-06-06T11:50:29.423Z [INFO]  test: Scenario 'Open lists filter' passed!
+2019-06-06T11:50:30.153Z [INFO]  test: Start test: Open filter first option Stingray
+2019-06-06T11:50:44.145Z [INFO]  test: Scenario 'Open filter first option Stingray' passed!
+2019-06-06T11:50:44.819Z [INFO]  test: Start test: Open filter second option POP
+2019-06-06T11:51:00.084Z [INFO]  test: Scenario 'Open filter second option POP' passed!
+2019-06-06T11:51:00.790Z [INFO]  test: Start test: Open filter third option Local POP
+2019-06-06T11:51:16.059Z [INFO]  test: Scenario 'Open filter third option Local POP' passed!
+2019-06-06T11:51:16.810Z [INFO]  test: Start test: Navigate to the "Sort" filter
+2019-06-06T11:51:23.623Z [INFO]  test: Scenario 'Navigate to the "Sort" filter' passed!
+2019-06-06T11:51:24.165Z [INFO]  test: Start test: Click on "A-Z" filter option
+2019-06-06T11:51:33.439Z [INFO]  test: Scenario 'Click on "A-Z" filter option' passed!
+2019-06-06T11:51:34.048Z [INFO]  test: Start test: Click on "Position" filter option
+2019-06-06T11:51:42.383Z [INFO]  test: Scenario 'Click on "Position" filter option' passed!
+2019-06-06T11:51:42.989Z [INFO]  test: Start test: Click on Recommended filter option
+2019-06-06T11:52:00.049Z [INFO]  test: Scenario 'Click on Recommended filter option' passed!
+2019-06-06T11:52:00.770Z [INFO]  test: Start test: Enter now on Tv sub menu with OK key code
+2019-06-06T11:52:13.004Z [INFO]  test: Scenario 'Enter now on Tv sub menu with OK key code' passed!
+2019-06-06T11:52:13.816Z [INFO]  test: Start test: Enter channels sub menu with OK key code
+2019-06-06T11:52:25.301Z [INFO]  test: Scenario 'Enter channels sub menu with OK key code' passed!
+2019-06-06T11:52:25.991Z [INFO]  test: Start test: Enter radio channels sub menu with OK key code
+2019-06-06T11:52:37.965Z [INFO]  test: Scenario 'Enter radio channels sub menu with OK key code' passed!
+2019-06-06T11:52:38.685Z [INFO]  test: Start test: Detail screen
+2019-06-06T11:52:45.072Z [INFO]  test: Scenario 'Detail screen' passed!
+2019-06-06T11:52:46.054Z [INFO]  test: Start test: Detail screen WATCH button
+2019-06-06T11:52:53.304Z [INFO]  test: Scenario 'Detail screen WATCH button' passed!
+2019-06-06T11:52:53.963Z [INFO]  test: Start test: Detail screen START OVER button
+2019-06-06T11:53:02.672Z [INFO]  test: Scenario 'Detail screen START OVER button' passed!
+2019-06-06T11:53:03.406Z [INFO]  test: Start test: Detail screen FAVORITES button
+2019-06-06T11:53:11.763Z [INFO]  test: Scenario 'Detail screen FAVORITES button' passed!
+2019-06-06T11:53:12.375Z [INFO]  test: Start test: Detail screen SEE FULL button
+2019-06-06T11:53:20.420Z [INFO]  test: Scenario 'Detail screen SEE FULL button' passed!
+2019-06-06T11:53:21.103Z [INFO]  test: Start test: Play live event
+2019-06-06T11:53:25.920Z [INFO]  test: Scenario 'Play live event' passed!
+2019-06-06T11:53:26.669Z [INFO]  test: Start test: Play live event from catchup
+2019-06-06T11:53:35.357Z [INFO]  test: Scenario 'Play live event from catchup' passed!
+2019-06-06T11:53:36.142Z [INFO]  test: Start test: Start over live event
+2019-06-06T11:53:43.654Z [INFO]  test: Scenario 'Start over live event' passed!
+2019-06-06T11:53:44.409Z [INFO]  test: Start test: Play event from the past
+2019-06-06T11:53:51.438Z [INFO]  test: Scenario 'Play event from the past' passed!
+2019-06-06T11:53:52.024Z [INFO]  test: Start test: Set favorite event
+2019-06-06T11:54:06.181Z [INFO]  test: Scenario 'Set favorite event' passed!
+2019-06-06T11:54:06.785Z [INFO]  test: Start test: Check all columns
+2019-06-06T11:54:09.703Z [INFO]  test: Scenario 'Check all columns' passed!
+2019-06-06T11:54:10.245Z [INFO]  test: Start test: Check channel picture
+2019-06-06T11:54:13.414Z [INFO]  test: Scenario 'Check channel picture' passed!
+2019-06-06T11:54:13.965Z [INFO]  test: Start test: Check 3rd columns 7 days in the past and 3 days in the future
+2019-06-06T11:54:32.701Z [INFO]  test: Scenario 'Check 3rd columns 7 days in the past and 3 days in the future' passed!
+2019-06-06T11:54:33.192Z [INFO]  test: Start test: Check guide arrow
+2019-06-06T11:54:36.181Z [INFO]  test: Scenario 'Check guide arrow' passed!
+2019-06-06T11:54:36.658Z [INFO]  test: Start test: Play live event when past or future event is selected
+2019-06-06T11:54:43.625Z [INFO]  test: Scenario 'Play live event when past or future event is selected' passed!
+2019-06-06T11:57:06.080Z [INFO]  test: initialize test run...
+2019-06-06T11:57:22.424Z [INFO]  test: Start test: Check Search button functionality
+2019-06-06T11:57:35.449Z [INFO]  test: Scenario 'Check Search button functionality' passed!
+2019-06-06T11:57:36.319Z [INFO]  test: Start test: Go through first banner
+2019-06-06T11:57:52.559Z [INFO]  test: Scenario 'Go through first banner' passed!
+2019-06-06T11:57:53.405Z [INFO]  test: Start test: Sub titles
+2019-06-06T11:57:59.042Z [INFO]  test: Scenario 'Sub titles' failed!
+2019-06-06T11:57:59.707Z [INFO]  test: Start test: First stripe check
+2019-06-06T11:58:07.342Z [INFO]  test: Scenario 'First stripe check' passed!
+2019-06-06T11:58:08.015Z [INFO]  test: Start test: Catalog check
+2019-06-06T11:58:16.311Z [INFO]  test: Scenario 'Catalog check' passed!
+2019-06-06T11:58:17.016Z [INFO]  test: Start test: Category stripe check
+2019-06-06T11:58:26.608Z [INFO]  test: Scenario 'Category stripe check' passed!
+2019-06-06T11:58:28.541Z [INFO]  test: Start test: Series detail check
+2019-06-06T11:58:41.649Z [INFO]  test: Scenario 'Series detail check' passed!
+2019-06-06T11:58:42.337Z [INFO]  test: Start test: Series detail favorites button check
+2019-06-06T11:58:56.350Z [INFO]  test: Scenario 'Series detail favorites button check' passed!
+2019-06-06T11:58:57.138Z [INFO]  test: Start test: Season detail check
+2019-06-06T11:59:14.165Z [INFO]  test: Scenario 'Season detail check' passed!
+2019-06-06T11:59:14.901Z [INFO]  test: Start test: Episode detail
+2019-06-06T11:59:35.768Z [INFO]  test: Scenario 'Episode detail' passed!
+2019-06-06T11:59:36.400Z [INFO]  test: Start test: Continue watching stripe
+2019-06-06T11:59:47.584Z [INFO]  test: Scenario 'Continue watching stripe' passed!
+2019-06-06T11:59:48.223Z [INFO]  test: Start test: Continue watching stripe play asset
+2019-06-06T12:00:09.724Z [INFO]  test: Scenario 'Continue watching stripe play asset' failed!
+2019-06-06T12:00:10.835Z [INFO]  test: Start test: Continue watching stripe watch from the beginning
+2019-06-06T12:00:35.907Z [INFO]  test: Scenario 'Continue watching stripe watch from the beginning' failed!
+2019-06-06T12:00:36.480Z [INFO]  test: Start test: Recently added movies stripe
+2019-06-06T12:00:48.636Z [INFO]  test: Scenario 'Recently added movies stripe' passed!
+2019-06-06T12:00:49.414Z [INFO]  test: Start test: Go through recently added movies stripe
+2019-06-06T12:01:05.801Z [INFO]  test: Scenario 'Go through recently added movies stripe' passed!
+2019-06-06T12:01:06.527Z [INFO]  test: Start test: Check see all button for recently added movies stripe
+2019-06-06T12:01:22.874Z [INFO]  test: Scenario 'Check see all button for recently added movies stripe' passed!
+2019-06-06T12:01:23.536Z [INFO]  test: Start test: Recently added series stripe
+2019-06-06T12:01:38.351Z [INFO]  test: Scenario 'Recently added series stripe' passed!
+2019-06-06T12:01:39.085Z [INFO]  test: Start test: Go through recently added series stripe
+2019-06-06T12:01:56.520Z [INFO]  test: Scenario 'Go through recently added series stripe' passed!
+2019-06-06T12:01:57.354Z [INFO]  test: Start test: Check see all button for recently added series stripe
+2019-06-06T12:02:14.092Z [INFO]  test: Scenario 'Check see all button for recently added series stripe' passed!
+2019-06-06T12:02:14.808Z [INFO]  test: Start test: Recently added kids stripe
+2019-06-06T12:02:27.505Z [INFO]  test: Scenario 'Recently added kids stripe' passed!
+2019-06-06T12:02:28.633Z [INFO]  test: Start test: Go through recently added kids stripe
+2019-06-06T12:02:46.385Z [INFO]  test: Scenario 'Go through recently added kids stripe' passed!
+2019-06-06T12:02:46.987Z [INFO]  test: Start test: Check see all button for recently added kids
+2019-06-06T12:03:04.749Z [INFO]  test: Scenario 'Check see all button for recently added kids' passed!
+2019-06-06T12:05:03.543Z [INFO]  test: initialize test run...
+2019-06-06T12:05:26.722Z [INFO]  test: Start test: Check Search button functionality
+2019-06-06T12:05:43.484Z [INFO]  test: Scenario 'Check Search button functionality' passed!
+2019-06-06T12:05:44.626Z [INFO]  test: Start test: Go through first banner
+2019-06-06T12:06:02.767Z [INFO]  test: Scenario 'Go through first banner' passed!
+2019-06-06T12:06:03.418Z [INFO]  test: Start test: Sub titles
+2019-06-06T12:06:11.327Z [INFO]  test: Scenario 'Sub titles' passed!
+2019-06-06T12:06:12.003Z [INFO]  test: Start test: First stripe check
+2019-06-06T12:06:19.987Z [INFO]  test: Scenario 'First stripe check' passed!
+2019-06-06T12:06:20.574Z [INFO]  test: Start test: Catalog check
+2019-06-06T12:06:30.068Z [INFO]  test: Scenario 'Catalog check' passed!
+2019-06-06T12:06:30.688Z [INFO]  test: Start test: Category stripe check
+2019-06-06T12:06:41.401Z [INFO]  test: Scenario 'Category stripe check' passed!
+2019-06-06T12:06:42.064Z [INFO]  test: Start test: Series detail check
+2019-06-06T12:06:56.239Z [INFO]  test: Scenario 'Series detail check' passed!
+2019-06-06T12:06:57.018Z [INFO]  test: Start test: Series detail favorites button check
+2019-06-06T12:07:12.142Z [INFO]  test: Scenario 'Series detail favorites button check' passed!
+2019-06-06T12:07:12.947Z [INFO]  test: Start test: Season detail check
+2019-06-06T12:07:30.901Z [INFO]  test: Scenario 'Season detail check' passed!
+2019-06-06T12:07:31.622Z [INFO]  test: Start test: Episode detail
+2019-06-06T12:07:56.722Z [INFO]  test: Scenario 'Episode detail' passed!
+2019-06-06T12:07:59.703Z [INFO]  test: Start test: Continue watching stripe
+2019-06-06T12:08:12.481Z [INFO]  test: Scenario 'Continue watching stripe' passed!
+2019-06-06T12:08:13.968Z [INFO]  test: Start test: Continue watching stripe play asset
+2019-06-06T12:08:28.792Z [INFO]  test: Scenario 'Continue watching stripe play asset' passed!
+2019-06-06T12:08:29.419Z [INFO]  test: Start test: Continue watching stripe watch from the beginning
+2019-06-06T12:08:53.411Z [INFO]  test: Scenario 'Continue watching stripe watch from the beginning' passed!
+2019-06-06T12:08:54.089Z [INFO]  test: Start test: Recently added movies stripe
+2019-06-06T12:09:05.448Z [INFO]  test: Scenario 'Recently added movies stripe' passed!
+2019-06-06T12:09:06.232Z [INFO]  test: Start test: Go through recently added movies stripe
+2019-06-06T12:09:23.557Z [INFO]  test: Scenario 'Go through recently added movies stripe' passed!
+2019-06-06T12:09:24.625Z [INFO]  test: Start test: Check see all button for recently added movies stripe
+2019-06-06T12:09:44.616Z [INFO]  test: Scenario 'Check see all button for recently added movies stripe' passed!
+2019-06-06T12:09:45.742Z [INFO]  test: Start test: Recently added series stripe
+2019-06-06T12:10:00.017Z [INFO]  test: Scenario 'Recently added series stripe' passed!
+2019-06-06T12:10:01.908Z [INFO]  test: Start test: Go through recently added series stripe
+2019-06-06T12:10:21.809Z [INFO]  test: Scenario 'Go through recently added series stripe' passed!
+2019-06-06T12:10:22.770Z [INFO]  test: Start test: Check see all button for recently added series stripe
+2019-06-06T12:10:44.956Z [INFO]  test: Scenario 'Check see all button for recently added series stripe' passed!
+2019-06-06T12:10:45.684Z [INFO]  test: Start test: Recently added kids stripe
+2019-06-06T12:10:58.060Z [INFO]  test: Scenario 'Recently added kids stripe' passed!
+2019-06-06T12:10:58.844Z [INFO]  test: Start test: Go through recently added kids stripe
+2019-06-06T12:11:17.042Z [INFO]  test: Scenario 'Go through recently added kids stripe' passed!
+2019-06-06T12:11:17.640Z [INFO]  test: Start test: Check see all button for recently added kids
+2019-06-06T12:11:36.938Z [INFO]  test: Scenario 'Check see all button for recently added kids' passed!
+2019-06-06T12:12:08.092Z [INFO]  test: initialize test run...
+2019-06-06T12:12:25.827Z [INFO]  test: Start test: Check radio player elements
+2019-06-06T12:12:43.933Z [INFO]  test: Scenario 'Check radio player elements' passed!
+2019-06-06T12:12:44.676Z [INFO]  test: Start test: Change radio channel
+2019-06-06T12:12:53.500Z [INFO]  test: Scenario 'Change radio channel' passed!
+2019-06-06T12:12:54.249Z [INFO]  test: Start test: Check all off the player elements
+2019-06-06T12:12:59.454Z [INFO]  test: Scenario 'Check all off the player elements' passed!
+2019-06-06T12:12:59.965Z [INFO]  test: Start test: Check Zap banner with event list stripe
+2019-06-06T12:13:04.021Z [INFO]  test: Scenario 'Check Zap banner with event list stripe' passed!
+2019-06-06T12:13:04.783Z [INFO]  test: Start test: Check event list stripe buttons
+2019-06-06T12:13:10.481Z [INFO]  test: Scenario 'Check event list stripe buttons' passed!
+2019-06-06T12:13:10.964Z [INFO]  test: Start test: Check channels stripe
+2019-06-06T12:13:16.855Z [INFO]  test: Scenario 'Check channels stripe' passed!
+2019-06-06T12:13:17.414Z [INFO]  test: Start test: Check Detail screen
+2019-06-06T12:13:22.723Z [INFO]  test: Scenario 'Check Detail screen' passed!
+2019-06-06T12:13:23.267Z [INFO]  test: Start test: Check Detail screen WATCH button
+2019-06-06T12:13:30.078Z [INFO]  test: Scenario 'Check Detail screen WATCH button' passed!
+2019-06-06T12:13:30.593Z [INFO]  test: Start test: Check Detail screen START OVER button
+2019-06-06T12:13:38.003Z [INFO]  test: Scenario 'Check Detail screen START OVER button' passed!
+2019-06-06T12:13:38.521Z [INFO]  test: Start test: Check Detail screen FAVORITES button
+2019-06-06T12:13:47.461Z [INFO]  test: Scenario 'Check Detail screen FAVORITES button' passed!
+2019-06-06T12:13:48.058Z [INFO]  test: Start test: Check Detail screen See full button
+2019-06-06T12:13:54.995Z [INFO]  test: Scenario 'Check Detail screen See full button' passed!
+2019-06-06T12:13:55.543Z [INFO]  test: Start test: Check vod player elements
+2019-06-06T12:14:06.666Z [INFO]  test: Scenario 'Check vod player elements' passed!
+2019-06-06T12:14:07.250Z [INFO]  test: Start test: Play and Pause button check
+2019-06-06T12:14:18.447Z [INFO]  test: Scenario 'Play and Pause button check' passed!
+2019-06-06T12:17:12.860Z [INFO]  test: initialize test run...
+2019-06-06T12:17:28.069Z [INFO]  test: Start test: Interface Language switch
+2019-06-06T12:17:51.961Z [INFO]  test: Scenario 'Interface Language switch' passed!
+2019-06-06T12:17:52.238Z [INFO]  test: Start test: Keyboard Language switch
+2019-06-06T12:17:55.951Z [INFO]  test: Scenario 'Keyboard Language switch' failed!
+2019-06-06T12:17:56.243Z [INFO]  test: Start test: Voice Search Language switch
+2019-06-06T12:18:11.262Z [INFO]  test: Scenario 'Voice Search Language switch' failed!
+2019-06-06T12:18:11.591Z [INFO]  test: Start test: First Audio Language switch
+2019-06-06T12:18:26.604Z [INFO]  test: Scenario 'First Audio Language switch' failed!
+2019-06-06T12:18:26.898Z [INFO]  test: Start test: Second Audio Language switch
+2019-06-06T12:18:41.306Z [INFO]  test: Scenario 'Second Audio Language switch' failed!
+2019-06-06T12:18:41.577Z [INFO]  test: Start test: First Subtitle Language switch
+2019-06-06T12:18:56.586Z [INFO]  test: Scenario 'First Subtitle Language switch' failed!
+2019-06-06T12:18:56.943Z [INFO]  test: Start test: Second Subtitle Language switch
+2019-06-06T12:19:32.873Z [INFO]  test: initialize test run...
+2019-06-07T15:30:26.597Z [INFO]  test: initialize test run...
+2019-06-07T15:30:57.567Z [INFO]  test: initialize test run...
+2019-06-07T15:31:26.730Z [INFO]  test: Start test: Start the application
+2019-06-07T15:31:36.608Z [INFO]  test: Scenario 'Start the application' passed!
+2019-06-07T15:31:37.322Z [INFO]  test: Start test: Navigate to the side menu button "Home"
+2019-06-07T15:31:41.118Z [INFO]  test: Scenario 'Navigate to the side menu button "Home"' passed!
+2019-06-07T15:31:41.623Z [INFO]  test: Start test: Navigate to the side menu button "Home" using the right key code
+2019-06-07T15:31:45.426Z [INFO]  test: Scenario 'Navigate to the side menu button "Home" using the right key code' passed!
+2019-06-07T15:31:46.060Z [INFO]  test: Start test: Navigate to side menu button "Channels"
+2019-06-07T15:31:52.629Z [INFO]  test: Scenario 'Navigate to side menu button "Channels"' passed!
+2019-06-07T15:31:53.135Z [INFO]  test: Start test: Navigate to side menu button "Channels" using the right key code
+2019-06-07T15:31:59.198Z [INFO]  test: Scenario 'Navigate to side menu button "Channels" using the right key code' passed!
+2019-06-07T15:31:59.796Z [INFO]  test: Start test: Navigate to side menu button "On Demand"
+2019-06-07T15:32:11.383Z [INFO]  test: Scenario 'Navigate to side menu button "On Demand"' passed!
+2019-06-07T15:32:12.081Z [INFO]  test: Start test: Navigate to side menu button "On Demand" using the right key code
+2019-06-07T15:32:22.444Z [INFO]  test: Scenario 'Navigate to side menu button "On Demand" using the right key code' passed!
+2019-06-07T15:32:23.175Z [INFO]  test: Start test: Navigate to side menu button "My Library"
+2019-06-07T15:32:32.319Z [INFO]  test: Scenario 'Navigate to side menu button "My Library"' passed!
+2019-06-07T15:32:33.102Z [INFO]  test: Start test: Navigate to side menu button "My Library" using the right key code
+2019-06-07T15:32:41.373Z [INFO]  test: Scenario 'Navigate to side menu button "My Library" using the right key code' passed!
+2019-06-07T15:32:41.939Z [INFO]  test: Start test: Navigate to side menu button "Settings"
+2019-06-07T15:32:46.666Z [INFO]  test: Scenario 'Navigate to side menu button "Settings"' passed!
+2019-06-07T15:32:47.263Z [INFO]  test: Start test: Navigate to side menu button "Settings" using the right key code
+2019-06-07T15:32:51.196Z [INFO]  test: Scenario 'Navigate to side menu button "Settings" using the right key code' passed!
+2019-06-07T15:32:51.736Z [INFO]  test: Start test: Navigate to side menu button "Watch"
+2019-06-07T15:32:56.760Z [INFO]  test: Scenario 'Navigate to side menu button "Watch"' passed!
+2019-06-07T15:32:57.322Z [INFO]  test: Start test: Navigate to the player from the main menu
+2019-06-07T15:32:58.705Z [INFO]  test: Scenario 'Navigate to the player from the main menu' passed!
+2019-06-07T15:32:59.407Z [INFO]  test: Start test: Check for clock
+2019-06-07T15:32:59.821Z [INFO]  test: Scenario 'Check for clock' passed!
+2019-06-07T15:33:00.246Z [INFO]  test: Start test: Press the back button while on the main menu
+2019-06-07T15:33:01.494Z [INFO]  test: Scenario 'Press the back button while on the main menu' passed!

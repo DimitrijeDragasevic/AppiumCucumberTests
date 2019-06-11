@@ -1,0 +1,117 @@
+#!/usr/bin/env node
+"use strict";
+
+var _interopRequireWildcard = require("@babel/runtime/helpers/interopRequireWildcard");
+
+var _interopRequireDefault = require("@babel/runtime/helpers/interopRequireDefault");
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.appUtils = exports.uiauto = exports.utils = exports.device = exports.settings = exports.IOSPerformanceLog = exports.IOSCrashLog = exports.IOSLog = exports.default = exports.WEBVIEW_WIN = exports.NATIVE_WIN = exports.startHttpsServer = exports.instrumentsUtils = exports.Instruments = exports.IWDP = exports.defaultServerCaps = exports.iosCommands = exports.commands = exports.desiredCapValidation = exports.desiredCapConstraints = exports.IosDriver = void 0;
+
+require("source-map-support/register");
+
+var _yargs = _interopRequireDefault(require("yargs"));
+
+var _asyncbox = require("asyncbox");
+
+var server = _interopRequireWildcard(require("./lib/server"));
+
+var driver = _interopRequireWildcard(require("./lib/driver"));
+
+var caps = _interopRequireWildcard(require("./lib/desired-caps"));
+
+var commandIndex = _interopRequireWildcard(require("./lib/commands/index"));
+
+var settings = _interopRequireWildcard(require("./lib/settings"));
+
+exports.settings = settings;
+
+var device = _interopRequireWildcard(require("./lib/device"));
+
+exports.device = device;
+
+var utils = _interopRequireWildcard(require("./lib/utils"));
+
+exports.utils = utils;
+
+var iwdp = _interopRequireWildcard(require("./lib/iwdp"));
+
+var uiauto = _interopRequireWildcard(require("./lib/uiauto/uiauto"));
+
+exports.uiauto = uiauto;
+
+var instruments = _interopRequireWildcard(require("./lib/instruments/index"));
+
+var context = _interopRequireWildcard(require("./lib/commands/context"));
+
+var _iosLog = _interopRequireDefault(require("./lib/device-log/ios-log"));
+
+var _iosCrashLog = _interopRequireDefault(require("./lib/device-log/ios-crash-log"));
+
+var _iosPerformanceLog = _interopRequireDefault(require("./lib/device-log/ios-performance-log"));
+
+var appUtils = _interopRequireWildcard(require("./lib/app-utils"));
+
+exports.appUtils = appUtils;
+const DEFAULT_HOST = "localhost";
+const DEFAULT_PORT = 4723;
+
+async function main() {
+  let port = _yargs.default.argv.port || DEFAULT_PORT;
+  let host = _yargs.default.argv.host || DEFAULT_HOST;
+  return await server.startServer(port, host);
+}
+
+if (require.main === module) {
+  (0, _asyncbox.asyncify)(main);
+}
+
+const startHttpsServer = server.startHttpsServer;
+exports.startHttpsServer = startHttpsServer;
+const {
+  IosDriver,
+  defaultServerCaps
+} = driver;
+exports.defaultServerCaps = defaultServerCaps;
+exports.IosDriver = IosDriver;
+const {
+  desiredCapConstraints,
+  desiredCapValidation
+} = caps;
+exports.desiredCapValidation = desiredCapValidation;
+exports.desiredCapConstraints = desiredCapConstraints;
+const {
+  commands,
+  iosCommands
+} = commandIndex;
+exports.iosCommands = iosCommands;
+exports.commands = commands;
+const {
+  IWDP
+} = iwdp;
+exports.IWDP = IWDP;
+const {
+  Instruments,
+  instrumentsUtils
+} = instruments;
+exports.instrumentsUtils = instrumentsUtils;
+exports.Instruments = Instruments;
+const {
+  NATIVE_WIN,
+  WEBVIEW_WIN
+} = context;
+exports.WEBVIEW_WIN = WEBVIEW_WIN;
+exports.NATIVE_WIN = NATIVE_WIN;
+var _default = IosDriver;
+exports.default = _default;
+const IOSLog = _iosLog.default;
+exports.IOSLog = IOSLog;
+const IOSCrashLog = _iosCrashLog.default;
+exports.IOSCrashLog = IOSCrashLog;
+const IOSPerformanceLog = _iosPerformanceLog.default;
+exports.IOSPerformanceLog = IOSPerformanceLog;require('source-map-support').install();
+
+
+//# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImluZGV4LmpzIl0sIm5hbWVzIjpbIkRFRkFVTFRfSE9TVCIsIkRFRkFVTFRfUE9SVCIsIm1haW4iLCJwb3J0IiwieWFyZ3MiLCJhcmd2IiwiaG9zdCIsInNlcnZlciIsInN0YXJ0U2VydmVyIiwicmVxdWlyZSIsIm1vZHVsZSIsInN0YXJ0SHR0cHNTZXJ2ZXIiLCJJb3NEcml2ZXIiLCJkZWZhdWx0U2VydmVyQ2FwcyIsImRyaXZlciIsImRlc2lyZWRDYXBDb25zdHJhaW50cyIsImRlc2lyZWRDYXBWYWxpZGF0aW9uIiwiY2FwcyIsImNvbW1hbmRzIiwiaW9zQ29tbWFuZHMiLCJjb21tYW5kSW5kZXgiLCJJV0RQIiwiaXdkcCIsIkluc3RydW1lbnRzIiwiaW5zdHJ1bWVudHNVdGlscyIsImluc3RydW1lbnRzIiwiTkFUSVZFX1dJTiIsIldFQlZJRVdfV0lOIiwiY29udGV4dCIsIklPU0xvZyIsIkxvZyIsIklPU0NyYXNoTG9nIiwiQ3Jhc2hMb2ciLCJJT1NQZXJmb3JtYW5jZUxvZyIsIlBlcmZvcm1hbmNlTG9nIl0sIm1hcHBpbmdzIjoiQUFBQTs7Ozs7Ozs7Ozs7Ozs7QUFHQTs7QUFDQTs7QUFDQTs7QUFnQkE7O0FBQ0E7O0FBQ0E7O0FBQ0E7Ozs7QUFDQTs7OztBQUNBOzs7O0FBQ0E7O0FBQ0E7Ozs7QUFDQTs7QUFDQTs7QUFvQkE7O0FBQ0E7O0FBQ0E7O0FBU0E7OztBQXREQSxNQUFNQSxZQUFZLEdBQUcsV0FBckI7QUFDQSxNQUFNQyxZQUFZLEdBQUcsSUFBckI7O0FBRUEsZUFBZUMsSUFBZixHQUF1QjtBQUNyQixNQUFJQyxJQUFJLEdBQUdDLGVBQU1DLElBQU4sQ0FBV0YsSUFBWCxJQUFtQkYsWUFBOUI7QUFDQSxNQUFJSyxJQUFJLEdBQUdGLGVBQU1DLElBQU4sQ0FBV0MsSUFBWCxJQUFtQk4sWUFBOUI7QUFDQSxTQUFPLE1BQU1PLE1BQU0sQ0FBQ0MsV0FBUCxDQUFtQkwsSUFBbkIsRUFBeUJHLElBQXpCLENBQWI7QUFDRDs7QUFFRCxJQUFJRyxPQUFPLENBQUNQLElBQVIsS0FBaUJRLE1BQXJCLEVBQTZCO0FBQzNCLDBCQUFTUixJQUFUO0FBQ0Q7O0FBY0QsTUFBTVMsZ0JBQWdCLEdBQUdKLE1BQU0sQ0FBQ0ksZ0JBQWhDOztBQUNBLE1BQU07QUFBRUMsRUFBQUEsU0FBRjtBQUFhQyxFQUFBQTtBQUFiLElBQW1DQyxNQUF6Qzs7O0FBQ0EsTUFBTTtBQUFFQyxFQUFBQSxxQkFBRjtBQUF5QkMsRUFBQUE7QUFBekIsSUFBa0RDLElBQXhEOzs7QUFDQSxNQUFNO0FBQUVDLEVBQUFBLFFBQUY7QUFBWUMsRUFBQUE7QUFBWixJQUE0QkMsWUFBbEM7OztBQUNBLE1BQU07QUFBRUMsRUFBQUE7QUFBRixJQUFXQyxJQUFqQjs7QUFDQSxNQUFNO0FBQUVDLEVBQUFBLFdBQUY7QUFBZUMsRUFBQUE7QUFBZixJQUFvQ0MsV0FBMUM7OztBQUNBLE1BQU07QUFBRUMsRUFBQUEsVUFBRjtBQUFjQyxFQUFBQTtBQUFkLElBQThCQyxPQUFwQzs7O2VBUWVoQixTOztBQVFmLE1BQU1pQixNQUFNLEdBQUdDLGVBQWY7O0FBQ0EsTUFBTUMsV0FBVyxHQUFHQyxvQkFBcEI7O0FBQ0EsTUFBTUMsaUJBQWlCLEdBQUdDLDBCQUExQiIsInNvdXJjZXNDb250ZW50IjpbIiMhL3Vzci9iaW4vZW52IG5vZGVcbi8vIHRyYW5zcGlsZTptYWluXG5cbmltcG9ydCB5YXJncyBmcm9tICd5YXJncyc7XG5pbXBvcnQgeyBhc3luY2lmeSB9IGZyb20gJ2FzeW5jYm94JztcbmltcG9ydCAqIGFzIHNlcnZlciBmcm9tICcuL2xpYi9zZXJ2ZXInO1xuXG5jb25zdCBERUZBVUxUX0hPU1QgPSBcImxvY2FsaG9zdFwiO1xuY29uc3QgREVGQVVMVF9QT1JUID0gNDcyMztcblxuYXN5bmMgZnVuY3Rpb24gbWFpbiAoKSB7XG4gIGxldCBwb3J0ID0geWFyZ3MuYXJndi5wb3J0IHx8IERFRkFVTFRfUE9SVDtcbiAgbGV0IGhvc3QgPSB5YXJncy5hcmd2Lmhvc3QgfHwgREVGQVVMVF9IT1NUO1xuICByZXR1cm4gYXdhaXQgc2VydmVyLnN0YXJ0U2VydmVyKHBvcnQsIGhvc3QpO1xufVxuXG5pZiAocmVxdWlyZS5tYWluID09PSBtb2R1bGUpIHtcbiAgYXN5bmNpZnkobWFpbik7XG59XG5cblxuaW1wb3J0ICogYXMgZHJpdmVyIGZyb20gJy4vbGliL2RyaXZlcic7XG5pbXBvcnQgKiBhcyBjYXBzIGZyb20gJy4vbGliL2Rlc2lyZWQtY2Fwcyc7XG5pbXBvcnQgKiBhcyBjb21tYW5kSW5kZXggZnJvbSAnLi9saWIvY29tbWFuZHMvaW5kZXgnO1xuaW1wb3J0ICogYXMgc2V0dGluZ3MgZnJvbSAnLi9saWIvc2V0dGluZ3MnO1xuaW1wb3J0ICogYXMgZGV2aWNlIGZyb20gJy4vbGliL2RldmljZSc7XG5pbXBvcnQgKiBhcyB1dGlscyBmcm9tICcuL2xpYi91dGlscyc7XG5pbXBvcnQgKiBhcyBpd2RwIGZyb20gJy4vbGliL2l3ZHAnO1xuaW1wb3J0ICogYXMgdWlhdXRvIGZyb20gJy4vbGliL3VpYXV0by91aWF1dG8nO1xuaW1wb3J0ICogYXMgaW5zdHJ1bWVudHMgZnJvbSAnLi9saWIvaW5zdHJ1bWVudHMvaW5kZXgnO1xuaW1wb3J0ICogYXMgY29udGV4dCBmcm9tICcuL2xpYi9jb21tYW5kcy9jb250ZXh0JztcblxuY29uc3Qgc3RhcnRIdHRwc1NlcnZlciA9IHNlcnZlci5zdGFydEh0dHBzU2VydmVyO1xuY29uc3QgeyBJb3NEcml2ZXIsIGRlZmF1bHRTZXJ2ZXJDYXBzIH0gPSBkcml2ZXI7XG5jb25zdCB7IGRlc2lyZWRDYXBDb25zdHJhaW50cywgZGVzaXJlZENhcFZhbGlkYXRpb24gfSA9IGNhcHM7XG5jb25zdCB7IGNvbW1hbmRzLCBpb3NDb21tYW5kcyB9ID0gY29tbWFuZEluZGV4O1xuY29uc3QgeyBJV0RQIH0gPSBpd2RwO1xuY29uc3QgeyBJbnN0cnVtZW50cywgaW5zdHJ1bWVudHNVdGlscyB9ID0gaW5zdHJ1bWVudHM7XG5jb25zdCB7IE5BVElWRV9XSU4sIFdFQlZJRVdfV0lOIH0gPSBjb250ZXh0O1xuXG5leHBvcnQge1xuICBJb3NEcml2ZXIsIGRlc2lyZWRDYXBDb25zdHJhaW50cywgZGVzaXJlZENhcFZhbGlkYXRpb24sIGNvbW1hbmRzLCBpb3NDb21tYW5kcyxcbiAgc2V0dGluZ3MsIGRldmljZSwgZGVmYXVsdFNlcnZlckNhcHMsIHV0aWxzLCBJV0RQLCB1aWF1dG8sIEluc3RydW1lbnRzLFxuICBpbnN0cnVtZW50c1V0aWxzLCBzdGFydEh0dHBzU2VydmVyLCBOQVRJVkVfV0lOLCBXRUJWSUVXX1dJTixcbn07XG5cbmV4cG9ydCBkZWZhdWx0IElvc0RyaXZlcjtcblxuXG4vLyBpb3MgbG9nIGFjY2Vzc1xuaW1wb3J0IExvZyBmcm9tICcuL2xpYi9kZXZpY2UtbG9nL2lvcy1sb2cnO1xuaW1wb3J0IENyYXNoTG9nIGZyb20gJy4vbGliL2RldmljZS1sb2cvaW9zLWNyYXNoLWxvZyc7XG5pbXBvcnQgUGVyZm9ybWFuY2VMb2cgZnJvbSAnLi9saWIvZGV2aWNlLWxvZy9pb3MtcGVyZm9ybWFuY2UtbG9nJztcblxuY29uc3QgSU9TTG9nID0gTG9nO1xuY29uc3QgSU9TQ3Jhc2hMb2cgPSBDcmFzaExvZztcbmNvbnN0IElPU1BlcmZvcm1hbmNlTG9nID0gUGVyZm9ybWFuY2VMb2c7XG5cbmV4cG9ydCB7IElPU0xvZywgSU9TQ3Jhc2hMb2csIElPU1BlcmZvcm1hbmNlTG9nIH07XG5cbi8vIGFwcCB1dGlsc1xuaW1wb3J0ICogYXMgYXBwVXRpbHMgZnJvbSAnLi9saWIvYXBwLXV0aWxzJztcblxuZXhwb3J0IHsgYXBwVXRpbHMgfTtcbiJdLCJmaWxlIjoiaW5kZXguanMiLCJzb3VyY2VSb290IjoiLi4ifQ==

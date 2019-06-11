@@ -1,0 +1,30 @@
+{
+  "name": "appium-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "dependencies": {
+    "adb": "^0.2.0",
+    "appium": "^1.12.1",
+    "cucumber-pretty": "^1.5.0",
+    "until": "^0.1.1",
+    "webdriverio": "^4.14.2"
+  },
+  "devDependencies": {
+    "adbkit": "^2.11.0",
+    "appium-adb": "^6.29.1",
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-es2016": "^6.24.1",
+    "cucumber": "^5.1.0",
+    "lodash": "^4.17.11",
+    "logplease": "^1.2.15",
+    "wdio-appium-service": "^0.2.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "runtest": " ./node_modules/.bin/cucumber-js || -f node_modules/cucumber-pretty "
+  },
+  "author": "",
+  "license": "ISC"
+}

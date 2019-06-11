@@ -1,0 +1,51 @@
+"use strict";
+
+var _interopRequireDefault = require("@babel/runtime/helpers/interopRequireDefault");
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = exports.SAFARI_BUNDLE = exports.helpers = exports.commands = void 0;
+
+require("source-map-support/register");
+
+var _logger = _interopRequireDefault(require("../logger"));
+
+let commands = {},
+    helpers = {},
+    extensions = {};
+exports.helpers = helpers;
+exports.commands = commands;
+const SAFARI_BUNDLE = 'com.apple.mobilesafari';
+exports.SAFARI_BUNDLE = SAFARI_BUNDLE;
+
+extensions.clickButtonToLaunchSafari = async function () {
+  _logger.default.debug('Attempting to launch Safari from Safari Launcher');
+
+  let el;
+
+  try {
+    el = await this.findElement('accessibility id', 'launch safari');
+  } catch (err) {
+    let msg = 'Could not find button to launch Safari. ' + 'Make sure you are using the latest version of ' + 'SafariLauncher that appium is using';
+
+    _logger.default.errorAndThrow(msg);
+  }
+
+  try {
+    await this.click(el.ELEMENT);
+  } catch (err) {
+    let msg = `Unable to click the 'launch safari' button of SafariLauncher: ${err.message}`;
+
+    _logger.default.errorAndThrow(msg);
+  }
+
+  _logger.default.debug('Clicked button, safari should be launching.');
+};
+
+Object.assign(extensions, commands, helpers);
+var _default = extensions;
+exports.default = _default;require('source-map-support').install();
+
+
+//# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImxpYi9jb21tYW5kcy9zYWZhcmkuanMiXSwibmFtZXMiOlsiY29tbWFuZHMiLCJoZWxwZXJzIiwiZXh0ZW5zaW9ucyIsIlNBRkFSSV9CVU5ETEUiLCJjbGlja0J1dHRvblRvTGF1bmNoU2FmYXJpIiwibG9nZ2VyIiwiZGVidWciLCJlbCIsImZpbmRFbGVtZW50IiwiZXJyIiwibXNnIiwiZXJyb3JBbmRUaHJvdyIsImNsaWNrIiwiRUxFTUVOVCIsIm1lc3NhZ2UiLCJPYmplY3QiLCJhc3NpZ24iXSwibWFwcGluZ3MiOiI7Ozs7Ozs7Ozs7O0FBQUE7O0FBR0EsSUFBSUEsUUFBUSxHQUFHLEVBQWY7QUFBQSxJQUFtQkMsT0FBTyxHQUFHLEVBQTdCO0FBQUEsSUFBaUNDLFVBQVUsR0FBRyxFQUE5Qzs7O0FBRUEsTUFBTUMsYUFBYSxHQUFHLHdCQUF0Qjs7O0FBSUFELFVBQVUsQ0FBQ0UseUJBQVgsR0FBdUMsa0JBQWtCO0FBQ3ZEQyxrQkFBT0MsS0FBUCxDQUFhLGtEQUFiOztBQUNBLE1BQUlDLEVBQUo7O0FBQ0EsTUFBSTtBQUNGQSxJQUFBQSxFQUFFLEdBQUcsTUFBTSxLQUFLQyxXQUFMLENBQWlCLGtCQUFqQixFQUFxQyxlQUFyQyxDQUFYO0FBQ0QsR0FGRCxDQUVFLE9BQU9DLEdBQVAsRUFBWTtBQUNaLFFBQUlDLEdBQUcsR0FBRyw2Q0FDQSxnREFEQSxHQUVBLHFDQUZWOztBQUdBTCxvQkFBT00sYUFBUCxDQUFxQkQsR0FBckI7QUFDRDs7QUFFRCxNQUFJO0FBQ0YsVUFBTSxLQUFLRSxLQUFMLENBQVdMLEVBQUUsQ0FBQ00sT0FBZCxDQUFOO0FBQ0QsR0FGRCxDQUVFLE9BQU9KLEdBQVAsRUFBWTtBQUNaLFFBQUlDLEdBQUcsR0FBSSxpRUFBZ0VELEdBQUcsQ0FBQ0ssT0FBUSxFQUF2Rjs7QUFDQVQsb0JBQU9NLGFBQVAsQ0FBcUJELEdBQXJCO0FBQ0Q7O0FBRURMLGtCQUFPQyxLQUFQLENBQWEsNkNBQWI7QUFDRCxDQXBCRDs7QUF1QkFTLE1BQU0sQ0FBQ0MsTUFBUCxDQUFjZCxVQUFkLEVBQTBCRixRQUExQixFQUFvQ0MsT0FBcEM7ZUFFZUMsVSIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBsb2dnZXIgZnJvbSAnLi4vbG9nZ2VyJztcblxuXG5sZXQgY29tbWFuZHMgPSB7fSwgaGVscGVycyA9IHt9LCBleHRlbnNpb25zID0ge307XG5cbmNvbnN0IFNBRkFSSV9CVU5ETEUgPSAnY29tLmFwcGxlLm1vYmlsZXNhZmFyaSc7XG5cbi8vIG9uY2Ugc2FmYXJpTGF1bmNoZXIgaXMgcnVubmluZyBhbmQgaW5zdHJ1bWVudGVkLCB0aGlzIGZ1bmN0aW9uXG4vLyBmaW5kcyB0aGUgYnV0dG9uIHdoaWNoIGxhdW5jaGVzIHNhZmFyaSBhbmQgY2xpY2tzIGl0LlxuZXh0ZW5zaW9ucy5jbGlja0J1dHRvblRvTGF1bmNoU2FmYXJpID0gYXN5bmMgZnVuY3Rpb24gKCkge1xuICBsb2dnZXIuZGVidWcoJ0F0dGVtcHRpbmcgdG8gbGF1bmNoIFNhZmFyaSBmcm9tIFNhZmFyaSBMYXVuY2hlcicpO1xuICBsZXQgZWw7XG4gIHRyeSB7XG4gICAgZWwgPSBhd2FpdCB0aGlzLmZpbmRFbGVtZW50KCdhY2Nlc3NpYmlsaXR5IGlkJywgJ2xhdW5jaCBzYWZhcmknKTtcbiAgfSBjYXRjaCAoZXJyKSB7XG4gICAgbGV0IG1zZyA9ICdDb3VsZCBub3QgZmluZCBidXR0b24gdG8gbGF1bmNoIFNhZmFyaS4gJyArXG4gICAgICAgICAgICAgICdNYWtlIHN1cmUgeW91IGFyZSB1c2luZyB0aGUgbGF0ZXN0IHZlcnNpb24gb2YgJyArXG4gICAgICAgICAgICAgICdTYWZhcmlMYXVuY2hlciB0aGF0IGFwcGl1bSBpcyB1c2luZyc7XG4gICAgbG9nZ2VyLmVycm9yQW5kVGhyb3cobXNnKTtcbiAgfVxuXG4gIHRyeSB7XG4gICAgYXdhaXQgdGhpcy5jbGljayhlbC5FTEVNRU5UKTtcbiAgfSBjYXRjaCAoZXJyKSB7XG4gICAgbGV0IG1zZyA9IGBVbmFibGUgdG8gY2xpY2sgdGhlICdsYXVuY2ggc2FmYXJpJyBidXR0b24gb2YgU2FmYXJpTGF1bmNoZXI6ICR7ZXJyLm1lc3NhZ2V9YDtcbiAgICBsb2dnZXIuZXJyb3JBbmRUaHJvdyhtc2cpO1xuICB9XG5cbiAgbG9nZ2VyLmRlYnVnKCdDbGlja2VkIGJ1dHRvbiwgc2FmYXJpIHNob3VsZCBiZSBsYXVuY2hpbmcuJyk7XG59O1xuXG5cbk9iamVjdC5hc3NpZ24oZXh0ZW5zaW9ucywgY29tbWFuZHMsIGhlbHBlcnMpO1xuZXhwb3J0IHsgY29tbWFuZHMsIGhlbHBlcnMsIFNBRkFSSV9CVU5ETEUgfTtcbmV4cG9ydCBkZWZhdWx0IGV4dGVuc2lvbnM7XG4iXSwiZmlsZSI6ImxpYi9jb21tYW5kcy9zYWZhcmkuanMiLCJzb3VyY2VSb290IjoiLi4vLi4vLi4ifQ==
