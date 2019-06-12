@@ -46,7 +46,7 @@ If you are unable to run ```./run.sh``` make sure that the file is executable if
        
 ### Who do I talk to about this framework ###
 
-* Dimitrije Dragasevic (dimitrije.dragasevic@united.cloud)
+* Dimitrije Dragasevic (dimitrije.dragasevic@gmail.com)
 
 ### References ###
 
