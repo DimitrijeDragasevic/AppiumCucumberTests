@@ -17,7 +17,7 @@
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-es2016": "^6.24.1",
     "cucumber": "^5.1.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "logplease": "^1.2.15",
     "wdio-appium-service": "^0.2.3"
   },
