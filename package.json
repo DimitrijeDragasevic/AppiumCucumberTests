@@ -5,14 +5,14 @@
   "main": "test.js",
   "dependencies": {
     "adb": "^0.2.0",
-    "appium": "^1.12.1",
+    "appium": "^1.22.3",
     "cucumber-pretty": "^1.5.0",
     "until": "^0.1.1",
     "webdriverio": "^4.14.2"
   },
   "devDependencies": {
     "adbkit": "^2.11.0",
-    "appium-adb": "^6.29.1",
+    "appium-adb": "^9.10.14",
     "babel-cli": "^6.26.0",
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-es2016": "^6.24.1",
